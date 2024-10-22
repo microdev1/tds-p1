@@ -1,0 +1,34 @@
+query ($after: String) {
+  search(
+    query: "location:London followers:>500"
+    type: USER
+    first: 100
+    after: $after
+  ) {
+    pageInfo {
+      endCursor
+      hasNextPage
+    }
+    nodes {
+      ... on User {
+        login
+        name
+        company
+        location
+        email
+        isHireable
+        bio
+        repositories {
+          totalCount
+        }
+        followers {
+          totalCount
+        }
+        following {
+          totalCount
+        }
+        createdAt
+      }
+    }
+  }
+}

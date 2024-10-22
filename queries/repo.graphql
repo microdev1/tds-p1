@@ -1,0 +1,30 @@
+query ($login: String!, $after: String) {
+  user(login: $login) {
+    repositories(
+      orderBy: { field: PUSHED_AT, direction: DESC }
+      first: 100
+      after: $after
+    ) {
+      pageInfo {
+        endCursor
+        hasNextPage
+      }
+      nodes {
+        name
+        createdAt
+        stargazerCount
+        watchers {
+          totalCount
+        }
+        primaryLanguage {
+          name
+        }
+        hasProjectsEnabled
+        hasWikiEnabled
+        licenseInfo {
+          name
+        }
+      }
+    }
+  }
+}
