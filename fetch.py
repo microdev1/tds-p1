@@ -88,7 +88,7 @@ def write_repo(user, repo):
             repo["primaryLanguage"]["name"] if repo["primaryLanguage"] else "",
             repo["hasProjectsEnabled"],
             repo["hasWikiEnabled"],
-            repo["licenseInfo"]["name"] if repo["licenseInfo"] else "",
+            repo["licenseInfo"]["key"] if repo["licenseInfo"] else "",
         ]
     )
 

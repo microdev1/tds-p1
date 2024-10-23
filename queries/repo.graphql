@@ -22,7 +22,7 @@ query ($login: String!, $after: String) {
         hasProjectsEnabled
         hasWikiEnabled
         licenseInfo {
-          name
+          key
         }
       }
     }
