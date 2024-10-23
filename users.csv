@@ -1,393 +1,393 @@
 login,name,company,location,email,hireable,bio,public_repos,followers,following,created_at
-tj,TJ Holowaychuk,APEX,"London, UK",tj@apex.sh,False,,326,50841,45,2008-09-18T22:37:28Z
-kunal-kushwaha,Kunal Kushwaha,CIVO,"London, UK",contact@techwithkunal.com,False,Field CTO @civo. Founder @WeMakeDevs ,56,30745,0,2018-08-25T15:01:59Z
-angelabauer,Angela Yu,APPBREWERY,"London, UK",,False,"Medical doctor. Developer. Founder of the App Brewery. Teaching 2,000,000+ students how to code.",975,18607,0,2014-09-16T21:03:28Z
-jlord,Jessica Lord,,"London, England",,False,Urban designer turned open source developer. Shared knowledge champion 🎉,197,16357,30,2012-01-05T03:24:52Z
-Elfocrash,Nick Chapsas,,"London, UK",nick@nickchapsas.com,False,Content creator for C# & .NET,50,10561,0,2014-07-18T09:32:23Z
-alyssaxuu,Alyssa X,,"London, UK",hi@alyssax.com,True,"Designer, developer, & entrepreneur. Founder of Sonuum + other ventures. Best woman maker of 2018 (Maker Mag) & nominated as Maker of The Year (Product Hunt)",15,8753,1,2014-05-14T13:12:46Z
-eddiejaoude,Eddie Jaoude,OPEN SOURCE ENGINEER,"London, UK",eddie@jaoudestudios.com,True,"Open Source DevRel!
+tj,TJ Holowaychuk,APEX,"London, UK",tj@apex.sh,false,,326,50841,45,2008-09-18T22:37:28Z
+kunal-kushwaha,Kunal Kushwaha,CIVO,"London, UK",contact@techwithkunal.com,false,Field CTO @civo. Founder @WeMakeDevs ,56,30745,0,2018-08-25T15:01:59Z
+angelabauer,Angela Yu,APPBREWERY,"London, UK",,false,"Medical doctor. Developer. Founder of the App Brewery. Teaching 2,000,000+ students how to code.",975,18607,0,2014-09-16T21:03:28Z
+jlord,Jessica Lord,,"London, England",,false,Urban designer turned open source developer. Shared knowledge champion 🎉,197,16357,30,2012-01-05T03:24:52Z
+Elfocrash,Nick Chapsas,,"London, UK",nick@nickchapsas.com,false,Content creator for C# & .NET,50,10561,0,2014-07-18T09:32:23Z
+alyssaxuu,Alyssa X,,"London, UK",hi@alyssax.com,true,"Designer, developer, & entrepreneur. Founder of Sonuum + other ventures. Best woman maker of 2018 (Maker Mag) & nominated as Maker of The Year (Product Hunt)",15,8753,1,2014-05-14T13:12:46Z
+eddiejaoude,Eddie Jaoude,OPEN SOURCE ENGINEER,"London, UK",eddie@jaoudestudios.com,true,"Open Source DevRel!
 GitHub Star ⭐ program + GitHub Star of the Year 🤓 + GitHub Accelerator with BioDrop (aka LinkFree)... let's GEEK out together!",115,8323,67,2011-02-18T06:56:22Z
-daneden,Daniel Eden,FACEBOOK ,"London, UK",dan.eden@me.com,False,"Designer, writing & thinking about Design Systems.",106,8166,90,2010-10-14T13:35:34Z
-LaravelDaily,Laravel Daily,LARAVEL DAILY,"Vilnius, Lithuania / London, UK",info@laraveldaily.com,True,Team of Laravel developers with experience since 2014.,362,7268,0,2015-10-27T11:27:30Z
-jskeet,Jon Skeet,GOOGLE,"London, UK",skeet@pobox.com,False,Recruiters: please do not contact me,103,6992,1,2008-07-14T14:55:19Z
-mattdesl,Matt DesLauriers,ARTIST,"London, UK",,False,,652,6940,28,2012-01-27T02:25:47Z
-nicklockwood,Nick Lockwood,CHARCOAL DESIGN,London,,False,,97,6229,2,2011-01-04T11:44:48Z
-jgthms,Jeremy Thomas,,London,,True,CSS Guru,96,5864,6,2011-12-11T00:26:17Z
-bizz84,Andrea Bizzotto,HTTPS://CODEWITHANDREA.COM,London,,False,"Flutter GDE ❖
+daneden,Daniel Eden,FACEBOOK ,"London, UK",dan.eden@me.com,false,"Designer, writing & thinking about Design Systems.",106,8166,90,2010-10-14T13:35:34Z
+LaravelDaily,Laravel Daily,LARAVEL DAILY,"Vilnius, Lithuania / London, UK",info@laraveldaily.com,true,Team of Laravel developers with experience since 2014.,362,7268,0,2015-10-27T11:27:30Z
+jskeet,Jon Skeet,GOOGLE,"London, UK",skeet@pobox.com,false,Recruiters: please do not contact me,103,6992,1,2008-07-14T14:55:19Z
+mattdesl,Matt DesLauriers,ARTIST,"London, UK",,false,,652,6940,28,2012-01-27T02:25:47Z
+nicklockwood,Nick Lockwood,CHARCOAL DESIGN,London,,false,,97,6229,2,2011-01-04T11:44:48Z
+jgthms,Jeremy Thomas,,London,,true,CSS Guru,96,5864,6,2011-12-11T00:26:17Z
+bizz84,Andrea Bizzotto,HTTPS://CODEWITHANDREA.COM,London,,false,"Flutter GDE ❖
 Creator of codewithandrea.com ❖ YouTube: nnbd.me/yt ❖ Complete Dart Course: nnbd.me/dart",127,5614,39,2009-11-14T09:11:40Z
-samuelcolvin,Samuel Colvin,PYDANTIC,"London, United Kingdom",s@muelcolvin.com,False,"Creator of Pydantic, you should try Pydantic Logfire",283,4941,47,2013-04-02T17:24:42Z
-Lissy93,Alicia Sykes,,"London, UK",alicia@omg.lol,True,Turning caffeine into code 🥤,123,4820,148,2012-06-18T13:44:16Z
-jgilfelt,Jeff Gilfelt,READYSTATE SOFTWARE LTD,"London, United Kingdom",,False,,34,4711,53,2010-01-03T16:25:18Z
-sonnysangha,Sonny Sangha,,London,sonny.sangha@gmail.com,False,,39,4499,0,2016-12-22T08:20:31Z
-nickbutcher,Nick Butcher,GOOGLE,London,,False,Android designer and developer.,15,4332,5,2010-08-03T08:31:57Z
-florina-muntenescu,Florina Muntenescu,GOOGLE,"London, United Kingdom",,False,,27,4268,0,2012-12-09T01:27:35Z
-pydanny,Daniel Roy Greenfeld,ANSWERDOTAI,"London, UK",,False,"Husband of @audreyfeldroy 💘, father of Uma 🛴, Co-Author of Two Scoops of Django, currently at @AnswerDotAI, on sabbatical from @kraken-tech, formerly @nasa",229,4256,394,2009-03-12T18:50:46Z
-SaraVieira,Sara Vieira,ASKORAMA ,London,,False,I make useless stuff for the funsies.,505,4224,44,2011-09-14T21:43:39Z
-dsyer,Dave Syer,VMWARE,London,dsyer@vmware.com,False,"Founder of Spring Cloud, Spring Boot, Spring Batch, and an active contributor to Spring Integration, Spring Framework, Spring AMQP, Spring Security.",494,4056,4,2009-09-07T08:52:49Z
-trueadm,Dominic Gannaway,VERCEL,"London, United Kingdom",,False,I'm a software engineer at @vercel working on @sveltejs. Author of @lexicaljs and @infernojs. Former @reactjs core team engineer at @facebook.,83,3972,35,2012-03-09T12:04:54Z
-matryer,Mat Ryer,GRAFANA  ,London,,False,"Engineering director at @Grafana - Gopher, developer, speaker, author (Go Programming Blueprints) - Xbar (BitBar reboot) xbarapp.com (now in beta)",118,3846,187,2009-07-04T14:49:10Z
-adamchainz,Adam Johnson,"DJANGO, @DJANGOLONDON",London / Lisbon,me@adamj.eu,False,"🦄 @django technical board member 
-🇬🇧 @djangolondon co-organizer 
+samuelcolvin,Samuel Colvin,PYDANTIC,"London, United Kingdom",s@muelcolvin.com,false,"Creator of Pydantic, you should try Pydantic Logfire",283,4941,47,2013-04-02T17:24:42Z
+Lissy93,Alicia Sykes,,"London, UK",alicia@omg.lol,true,Turning caffeine into code 🥤,123,4820,148,2012-06-18T13:44:16Z
+jgilfelt,Jeff Gilfelt,READYSTATE SOFTWARE LTD,"London, United Kingdom",,false,,34,4711,53,2010-01-03T16:25:18Z
+sonnysangha,Sonny Sangha,,London,sonny.sangha@gmail.com,false,,39,4499,0,2016-12-22T08:20:31Z
+nickbutcher,Nick Butcher,GOOGLE,London,,false,Android designer and developer.,15,4332,5,2010-08-03T08:31:57Z
+florina-muntenescu,Florina Muntenescu,GOOGLE,"London, United Kingdom",,false,,27,4268,0,2012-12-09T01:27:35Z
+pydanny,Daniel Roy Greenfeld,ANSWERDOTAI,"London, UK",,false,"Husband of @audreyfeldroy 💘, father of Uma 🛴, Co-Author of Two Scoops of Django, currently at @AnswerDotAI, on sabbatical from @kraken-tech, formerly @nasa",229,4256,394,2009-03-12T18:50:46Z
+SaraVieira,Sara Vieira,ASKORAMA ,London,,false,I make useless stuff for the funsies.,505,4224,44,2011-09-14T21:43:39Z
+dsyer,Dave Syer,VMWARE,London,dsyer@vmware.com,false,"Founder of Spring Cloud, Spring Boot, Spring Batch, and an active contributor to Spring Integration, Spring Framework, Spring AMQP, Spring Security.",494,4056,4,2009-09-07T08:52:49Z
+trueadm,Dominic Gannaway,VERCEL,"London, United Kingdom",,false,I'm a software engineer at @vercel working on @sveltejs. Author of @lexicaljs and @infernojs. Former @reactjs core team engineer at @facebook.,83,3972,35,2012-03-09T12:04:54Z
+matryer,Mat Ryer,GRAFANA  ,London,,false,"Engineering director at @Grafana - Gopher, developer, speaker, author (Go Programming Blueprints) - Xbar (BitBar reboot) xbarapp.com (now in beta)",118,3846,187,2009-07-04T14:49:10Z
+adamchainz,Adam Johnson,"DJANGO, @DJANGOLONDON",London / Lisbon,me@adamj.eu,false,"🦄 @django technical board member
+🇬🇧 @djangolondon co-organizer
 ✍ AWS/Django/Python Author and Consultant",1320,3706,159,2011-06-17T23:53:10Z
-gordicaleksa,Aleksa Gordić,"EX-DEEPMIND, EX-MICROSOFT","Belgrade, Serbia -> London -> SF? :)",gordicaleksa@gmail.com,False,Flirting with LLMs. Tensor Core maximalist. If I say stupid stuff it's not me it's my prompt.,55,3685,4,2017-06-08T07:12:26Z
-threepointone,Sunil Pai,,"London, England",,False,,288,3496,0,2008-07-29T12:17:53Z
-lizrice,Liz Rice,ISOVALENT,London,liz@lizrice.com,False,"Open Source @isovalent @cilium | @cncf governing board & TOC emeritus chair | O'Reilly author ""Learning eBPF"" & ""Container Security"" | @OpenUK board",108,3318,3,2010-10-28T20:32:57Z
-Soldy,Mr L ,,London UK ,,True,"Mathematics has no gender and can work with all skin types.
+gordicaleksa,Aleksa Gordić,"EX-DEEPMIND, EX-MICROSOFT","Belgrade, Serbia -> London -> SF? :)",gordicaleksa@gmail.com,false,Flirting with LLMs. Tensor Core maximalist. If I say stupid stuff it's not me it's my prompt.,55,3685,4,2017-06-08T07:12:26Z
+threepointone,Sunil Pai,,"London, England",,false,,288,3496,0,2008-07-29T12:17:53Z
+lizrice,Liz Rice,ISOVALENT,London,liz@lizrice.com,false,"Open Source @isovalent @cilium | @cncf governing board & TOC emeritus chair | O'Reilly author ""Learning eBPF"" & ""Container Security"" | @OpenUK board",108,3318,3,2010-10-28T20:32:57Z
+Soldy,Mr L ,,London UK ,,true,"Mathematics has no gender and can work with all skin types.
 ",358,3281,25494,2013-06-23T12:02:26Z
-sdiehl,Stephen Diehl,,London,,False,Software Engineer,125,3098,879,2010-04-04T16:58:09Z
-jasondavies,Jason Davies,,"London, UK",jason@jasondavies.com,False,,46,3095,40,2008-10-27T12:15:54Z
-steveruizok,Steve Ruiz,,"London, UK",steveruizok@gmail.com,False,Design and dev for creative tools.,172,3047,6,2016-10-26T08:12:27Z
-ArefMq,Aref Moqadam Mehr,AUTOMATA-TECH ,"London, UK",,True,"Preferred Pronunciation: /'ærɛf/
+sdiehl,Stephen Diehl,,London,,false,Software Engineer,125,3098,879,2010-04-04T16:58:09Z
+jasondavies,Jason Davies,,"London, UK",jason@jasondavies.com,false,,46,3095,40,2008-10-27T12:15:54Z
+steveruizok,Steve Ruiz,,"London, UK",steveruizok@gmail.com,false,Design and dev for creative tools.,172,3047,6,2016-10-26T08:12:27Z
+ArefMq,Aref Moqadam Mehr,AUTOMATA-TECH ,"London, UK",,true,"Preferred Pronunciation: /'ærɛf/
 Preferred Pronoun: he/him/his",30,3042,21922,2015-02-07T15:38:54Z
-Archakov06,Archakov Dennis,,London,amonbower@gmail.com,True,"Frontend Developer. UI Designer.
+Archakov06,Archakov Dennis,,London,amonbower@gmail.com,true,"Frontend Developer. UI Designer.
 JavaScript ❤️ ReactJS ⚛ React Native, NodeJS, PHP",187,3028,300,2015-04-23T15:42:28Z
-mlabonne,Maxime Labonne,LIQUID AI,"London, United Kingdom",,False,Head of Post-Training,22,2988,25,2021-03-23T16:23:45Z
-jspahrsummers,Justin Spahr-Summers,ANTHROPICS,"London, United Kingdom",justin@jspahrsummers.com,False,Engineering + People,106,2962,60,2010-10-08T15:39:49Z
-emilsjolander,Emil Sjölander,FIGMA,"London, England",,False,,42,2856,8,2012-03-11T15:24:40Z
-dli,David Li,,"London, UK",hi@david.li,False,,7,2831,0,2014-09-05T15:16:09Z
-lucasr,Lucas Rocha,META,"London, UK",lucasr@lucasr.org,False,"Director, App Foundation at Meta · Formerly Mozilla, GNOME, lilt, Nokia · Brazilian, husband, dad · He/him",15,2768,5,2011-04-14T23:02:54Z
-TryCatchLearn,Neil Cummings,TRYCATCHLEARN,"London, UK",,False,Software Developer,45,2718,0,2017-09-08T08:57:30Z
-riggaroo,Rebecca Franks,GOOGLE,"London, United Kingdom",,True,"Android Developer Relations Engineer @Google.. Love working with Android, UI and animations!",42,2646,46,2014-11-27T06:32:40Z
-paullewis,Paul Lewis,,"London, United Kingdom",,False,,12,2622,11,2011-02-14T15:06:32Z
-soulwire,Justin Windle,,London,,False,,32,2600,31,2010-07-27T22:42:55Z
-spite,Jaume Sanchez,GOOGLE-DEEPMIND ,London · Barcelona,hello@clicktorelease.com,False,"Web Dev, pixel burner - WebGL · WebXR",140,2546,0,2011-04-15T16:00:06Z
-MachineLearnia,,PREDIXUS,London - UK,,False,"Data Scientist and Head of Digital Transformation in the Aviation.
+mlabonne,Maxime Labonne,LIQUID AI,"London, United Kingdom",,false,Head of Post-Training,22,2988,25,2021-03-23T16:23:45Z
+jspahrsummers,Justin Spahr-Summers,ANTHROPICS,"London, United Kingdom",justin@jspahrsummers.com,false,Engineering + People,106,2962,60,2010-10-08T15:39:49Z
+emilsjolander,Emil Sjölander,FIGMA,"London, England",,false,,42,2856,8,2012-03-11T15:24:40Z
+dli,David Li,,"London, UK",hi@david.li,false,,7,2831,0,2014-09-05T15:16:09Z
+lucasr,Lucas Rocha,META,"London, UK",lucasr@lucasr.org,false,"Director, App Foundation at Meta · Formerly Mozilla, GNOME, lilt, Nokia · Brazilian, husband, dad · He/him",15,2768,5,2011-04-14T23:02:54Z
+TryCatchLearn,Neil Cummings,TRYCATCHLEARN,"London, UK",,false,Software Developer,45,2718,0,2017-09-08T08:57:30Z
+riggaroo,Rebecca Franks,GOOGLE,"London, United Kingdom",,true,"Android Developer Relations Engineer @Google.. Love working with Android, UI and animations!",42,2646,46,2014-11-27T06:32:40Z
+paullewis,Paul Lewis,,"London, United Kingdom",,false,,12,2622,11,2011-02-14T15:06:32Z
+soulwire,Justin Windle,,London,,false,,32,2600,31,2010-07-27T22:42:55Z
+spite,Jaume Sanchez,GOOGLE-DEEPMIND ,London · Barcelona,hello@clicktorelease.com,false,"Web Dev, pixel burner - WebGL · WebXR",140,2546,0,2011-04-15T16:00:06Z
+MachineLearnia,,PREDIXUS,London - UK,,false,"Data Scientist and Head of Digital Transformation in the Aviation.
 This account is just a collection of tutorials linked to my YouTube Channel Machine Learnia",4,2522,5,2019-08-06T10:38:27Z
-gajus,Gajus Kuizinas,,London,gajus@gajus.com,False,"Software architect. Passionate about Node.js, React, GraphQL, PostgreSQL. Active open-source contributor.",331,2503,536,2011-08-11T10:00:41Z
-mvdan,Daniel Martí,CUE-LANG,"London, United Kingdom",mvdan@mvdan.cc,False,"Maintainer at @cue-lang, nerd sniper with @golang.",93,2323,34,2013-02-12T17:52:26Z
-0atman,Tristram Oaten,HTTP://NOBOILERPLATE.ORG,"London, UK",tris@oat.sh,False,"Professional amateur developer.
+gajus,Gajus Kuizinas,,London,gajus@gajus.com,false,"Software architect. Passionate about Node.js, React, GraphQL, PostgreSQL. Active open-source contributor.",331,2503,536,2011-08-11T10:00:41Z
+mvdan,Daniel Martí,CUE-LANG,"London, United Kingdom",mvdan@mvdan.cc,false,"Maintainer at @cue-lang, nerd sniper with @golang.",93,2323,34,2013-02-12T17:52:26Z
+0atman,Tristram Oaten,HTTP://NOBOILERPLATE.ORG,"London, UK",tris@oat.sh,false,"Professional amateur developer.
 Amateur professional producer.",153,2235,22,2009-08-11T09:08:35Z
-kylef,Kyle Fuller,,"London, England",kyle@cocode.org,True,,129,2229,43,2009-01-04T22:54:57Z
-passy,Pascal Hartig,FACEBOOK,"London, UK",,True,"Mobile Dev Velocity at Facebook. Ex-Tweep. Flipper by day, Haskell/Rust/PureScript by night.",471,2214,80,2008-05-11T00:30:07Z
-laurent22,Laurent Cozic,,London,,True,,198,2203,8,2011-12-26T04:20:45Z
-slightfoot,Simon Lightfoot,DEVANGELS,"London, UK",,False,"Co-founder Flutter Study Group on Slack. Writing code for 20+ years, now at DevAngels, London. Mainly @flutter, and @android also @golang.. but ❤️ Flutter ",132,2107,92,2011-07-10T21:45:27Z
-VagrantStory,mohammad,,"London, UK",,False,Developer Program Member,9,2025,17289,2013-04-05T14:56:37Z
-lpil,Louis Pilfold,,"London, UK",louis@lpil.uk,True,Creator of the Gleam programming language.,398,1978,91,2013-12-08T08:56:52Z
-praveenscience,Praveen Kumar Purushothaman,CLOUDROITHQ ,"London, England, United Kingdom",,True,"Microsoft MVP, Web Developer and Computer Software & UX Architect.",645,1975,7,2012-06-08T11:35:38Z
-christiannwamba,Christian Nwamba,AWS  ,"London, UK",nwambachristian@gmail.com,True,JavaScript - Open Source  - Developer Advocate,23,1972,50,2014-07-09T00:31:28Z
-audreyfeldroy,Audrey M. Roy Greenfeld,FELDROY,London,audrey@feldroy.com,True,"Developer, artist, writer, and mother. Core committer to @pydanny 💘",226,1955,233,2009-04-17T07:34:28Z
-PaulKinlan,Paul Kinlan,GOOGLE,"Ruthin, London, Mountain View (CA)",paul.kinlan@gmail.com,True,I lead Google's Chrome and Web Developer relations team.,260,1900,195,2009-01-10T08:09:44Z
-fabiospampinato,Fabio Spampinato,FACEBOOK,"London, UK",fabio@notable.app,False,Trying to write good software.,417,1843,52,2012-06-03T12:15:46Z
-cortinico,Nicola Corti,FACEBOOK,"London, UK",corti.nico@gmail.com,True,"React Native for Android ⚛️ | Kotlin GDE 💜 | Maintainer of @detekt, @ChuckerTeam, @AppIntro 🐧 | Host https://thebakery.dev 🥐 | He/Him 🏳️‍🌈 【ツ】",172,1838,97,2012-12-09T16:21:50Z
-robmarkcole,Robin Cole,EARTHDAILY,"London, UK",robmarkcole@gmail.com,False,Tackling the worlds toughest challenges with AI & ML applied to satellite imagery,373,1814,2743,2015-04-08T14:29:30Z
-TodePond,Lu Wilson,TLDRAW,"London, UK",,False,slightly-surreal creative-coding,124,1805,122,2015-11-17T15:13:36Z
-nicholasjackson,Nicholas Jackson,HASHICORP,London,jackson.nic@gmail.com,True,"Developer advocate working for @hashicorp. 
+kylef,Kyle Fuller,,"London, England",kyle@cocode.org,true,,129,2229,43,2009-01-04T22:54:57Z
+passy,Pascal Hartig,FACEBOOK,"London, UK",,true,"Mobile Dev Velocity at Facebook. Ex-Tweep. Flipper by day, Haskell/Rust/PureScript by night.",471,2214,80,2008-05-11T00:30:07Z
+laurent22,Laurent Cozic,,London,,true,,198,2203,8,2011-12-26T04:20:45Z
+slightfoot,Simon Lightfoot,DEVANGELS,"London, UK",,false,"Co-founder Flutter Study Group on Slack. Writing code for 20+ years, now at DevAngels, London. Mainly @flutter, and @android also @golang.. but ❤️ Flutter ",132,2107,92,2011-07-10T21:45:27Z
+VagrantStory,mohammad,,"London, UK",,false,Developer Program Member,9,2025,17289,2013-04-05T14:56:37Z
+lpil,Louis Pilfold,,"London, UK",louis@lpil.uk,true,Creator of the Gleam programming language.,398,1978,91,2013-12-08T08:56:52Z
+praveenscience,Praveen Kumar Purushothaman,CLOUDROITHQ ,"London, England, United Kingdom",,true,"Microsoft MVP, Web Developer and Computer Software & UX Architect.",645,1975,7,2012-06-08T11:35:38Z
+christiannwamba,Christian Nwamba,AWS  ,"London, UK",nwambachristian@gmail.com,true,JavaScript - Open Source  - Developer Advocate,23,1972,50,2014-07-09T00:31:28Z
+audreyfeldroy,Audrey M. Roy Greenfeld,FELDROY,London,audrey@feldroy.com,true,"Developer, artist, writer, and mother. Core committer to @pydanny 💘",226,1955,233,2009-04-17T07:34:28Z
+PaulKinlan,Paul Kinlan,GOOGLE,"Ruthin, London, Mountain View (CA)",paul.kinlan@gmail.com,true,I lead Google's Chrome and Web Developer relations team.,260,1900,195,2009-01-10T08:09:44Z
+fabiospampinato,Fabio Spampinato,FACEBOOK,"London, UK",fabio@notable.app,false,Trying to write good software.,417,1843,52,2012-06-03T12:15:46Z
+cortinico,Nicola Corti,FACEBOOK,"London, UK",corti.nico@gmail.com,true,"React Native for Android ⚛️ | Kotlin GDE 💜 | Maintainer of @detekt, @ChuckerTeam, @AppIntro 🐧 | Host https://thebakery.dev 🥐 | He/Him 🏳️‍🌈 【ツ】",172,1838,97,2012-12-09T16:21:50Z
+robmarkcole,Robin Cole,EARTHDAILY,"London, UK",robmarkcole@gmail.com,false,Tackling the worlds toughest challenges with AI & ML applied to satellite imagery,373,1814,2743,2015-04-08T14:29:30Z
+TodePond,Lu Wilson,TLDRAW,"London, UK",,false,slightly-surreal creative-coding,124,1805,122,2015-11-17T15:13:36Z
+nicholasjackson,Nicholas Jackson,HASHICORP,London,jackson.nic@gmail.com,true,"Developer advocate working for @hashicorp.
 Interested in Go microservices.
 Author of Building Microservices in Go and Service Mesh Patterns.",334,1795,10,2011-05-07T07:47:13Z
-weavejester,James Reeves,BOOLEAN KNOT LTD,"London, UK",,True,Freelance Clojure programmer,170,1787,7,2008-04-28T23:33:51Z
-kitten,Phil Pluckthun,EXPO,London,phil@kitten.sh,False,"dev tools at @expo 𝝠
+weavejester,James Reeves,BOOLEAN KNOT LTD,"London, UK",,true,Freelance Clojure programmer,170,1787,7,2008-04-28T23:33:51Z
+kitten,Phil Pluckthun,EXPO,London,phil@kitten.sh,false,"dev tools at @expo 𝝠
 • 🗻 n+1 GraphQL/TS/React projects
 • 🔨 gql.tada, urql
 • 🐦‍⬛ twitter @_philpl
 • 🗨️ discord @‍philpl",108,1724,59,2012-07-25T16:05:16Z
-MaggieAppleton,Maggie Appleton,NORMALLY,London,,False,"Design engineer @Normally. Exploring how LMs help us think different kinds of thoughts. Enthusiastic about visual metaphors, end-user programming, and marmite.",23,1718,16,2013-10-02T23:30:41Z
-HariSekhon,Hari Sekhon,,"London, United Kingdom",,True,"Cloud Architect, DevOps, Data Engineer, Big Data (ex-Cloudera), Digital Nomad",204,1709,31,2012-08-24T11:15:45Z
-ohld,Daniil Okhlopkov,YOU GOT SCRAPPED,London,,True,Chief Data Officer,106,1697,50,2013-10-04T17:45:13Z
-Patalin,Patalin,,London,,False,,115,1683,5,2018-08-14T19:09:44Z
-derickr,Derick Rethans,,"London, UK",github@derickrethans.nl,False,"I am Derick, and I am the creator of Xdebug, PHP's debugger.  I am currently working on creating Xdebug 3.
+MaggieAppleton,Maggie Appleton,NORMALLY,London,,false,"Design engineer @Normally. Exploring how LMs help us think different kinds of thoughts. Enthusiastic about visual metaphors, end-user programming, and marmite.",23,1718,16,2013-10-02T23:30:41Z
+HariSekhon,Hari Sekhon,,"London, United Kingdom",,true,"Cloud Architect, DevOps, Data Engineer, Big Data (ex-Cloudera), Digital Nomad",204,1709,31,2012-08-24T11:15:45Z
+ohld,Daniil Okhlopkov,YOU GOT SCRAPPED,London,,true,Chief Data Officer,106,1697,50,2013-10-04T17:45:13Z
+Patalin,Patalin,,London,,false,,115,1683,5,2018-08-14T19:09:44Z
+derickr,Derick Rethans,,"London, UK",github@derickrethans.nl,false,"I am Derick, and I am the creator of Xdebug, PHP's debugger.  I am currently working on creating Xdebug 3.
 
 ",156,1682,0,2010-02-21T23:45:20Z
-ItzLevvie,Levvie - she/her,,"London, England, United Kingdom",,False,,8,1663,2,2015-03-22T18:22:39Z
-BYK,Burak Yigit Kaya,SENTRY,"London, UK",,False,"Helping engineers help themselves help us all. Tinkerer @getsentry
+ItzLevvie,Levvie - she/her,,"London, England, United Kingdom",,false,,8,1663,2,2015-03-22T18:22:39Z
+BYK,Burak Yigit Kaya,SENTRY,"London, UK",,false,"Helping engineers help themselves help us all. Tinkerer @getsentry
 ",49,1628,176,2009-09-14T14:41:40Z
-keithamus,Keith Cirkel,GITHUB,"London, England",,False,"Bad at JavaScript, HTML, CSS",362,1623,125,2009-08-22T14:48:35Z
-serengil,Sefik Ilkin Serengil,,London,serengil@gmail.com,False,"👨‍💻Software Engineer
+keithamus,Keith Cirkel,GITHUB,"London, England",,false,"Bad at JavaScript, HTML, CSS",362,1623,125,2009-08-22T14:48:35Z
+serengil,Sefik Ilkin Serengil,,London,serengil@gmail.com,false,"👨‍💻Software Engineer
 🎓GSU alumni
 🏠London 🇬🇧 UK Global Talent 💬Code wins arguments",25,1622,98,2016-04-15T20:57:22Z
-bee-san,Autumn (Bee),CISCO,"London, UK",github@skerritt.blog,True,"Security @ Duo, ex-monzo
+bee-san,Autumn (Bee),CISCO,"London, UK",github@skerritt.blog,true,"Security @ Duo, ex-monzo
 
 Creator of RustScan, Ciphey, Name-That-Hash, Search-That-Hash and more 🌌   ",188,1614,74,2015-01-03T04:29:08Z
-ForbesLindesay,Forbes Lindesay,MAVENOID ,"London, UK",,False,,392,1596,8,2011-12-13T15:45:53Z
-lovell,Lovell Fuller,,"London, UK",,False,,71,1582,52,2010-02-25T21:27:12Z
-sergiecode,Sergie Code,,"London, UK",,False,"🔸I'm Sergie Code, I'm a Software Engineer and a content creator about programming and JavaScript (Angular, React and other frameworks).",181,1519,23,2020-07-11T01:43:15Z
-petebacondarwin,Pete Bacon Darwin,CLOUDFLARE,"London, UK",pete@bacondarwin.com,False,"2021: Systems Engineer at Cloudflare;
+ForbesLindesay,Forbes Lindesay,MAVENOID ,"London, UK",,false,,392,1596,8,2011-12-13T15:45:53Z
+lovell,Lovell Fuller,,"London, UK",,false,,71,1582,52,2010-02-25T21:27:12Z
+sergiecode,Sergie Code,,"London, UK",,false,"🔸I'm Sergie Code, I'm a Software Engineer and a content creator about programming and JavaScript (Angular, React and other frameworks).",181,1519,23,2020-07-11T01:43:15Z
+petebacondarwin,Pete Bacon Darwin,CLOUDFLARE,"London, UK",pete@bacondarwin.com,false,"2021: Systems Engineer at Cloudflare;
 2014: Angular Core team member;
 2004: Dad from 2004.",232,1501,12,2008-07-01T11:54:19Z
-sebastianstarke,Sebastian Starke,,"London, UK",Sebastian.Starke@mail.de,False,"Research Scientist @ Meta, PhD @ UoE. Formerly @ Electronic Arts, Adobe Research. Enjoying coffee and life in no particular order.",7,1488,23,2016-07-03T17:56:35Z
-ualehosaini,Useme Alehosaini,WIDE IT SOLUTIONS,"London, United Kingdom",,False,"Senior Technology Consultant, Business Director; active StackOverflow contributor, mentors Junior Developers and Students towards Reusable and Clean Coding",64,1486,1336,2019-05-13T18:57:11Z
-jacobbinnie,Jacob Binnie,,"London, United Kingdom",,False,,11,1483,9,2021-05-07T05:08:33Z
-kadikraman,Kadi Kraman,EXPO ,London,hellokadi@gmail.com,False,,101,1469,20,2014-01-29T12:12:30Z
-umaar,Umar Hansa,,London,umar.hansa@gmail.com,False,Front-end web developer,485,1461,1382,2010-08-31T02:42:45Z
-jcoglan,James Coglan,,London,,False,,168,1456,44,2008-05-04T14:39:21Z
-mikedewar,Mike Dewar,MASTERCARD,London,mikedewar@gmail.com,False,"Vice President of Data Science at MasterCard
+sebastianstarke,Sebastian Starke,,"London, UK",Sebastian.Starke@mail.de,false,"Research Scientist @ Meta, PhD @ UoE. Formerly @ Electronic Arts, Adobe Research. Enjoying coffee and life in no particular order.",7,1488,23,2016-07-03T17:56:35Z
+ualehosaini,Useme Alehosaini,WIDE IT SOLUTIONS,"London, United Kingdom",,false,"Senior Technology Consultant, Business Director; active StackOverflow contributor, mentors Junior Developers and Students towards Reusable and Clean Coding",64,1486,1336,2019-05-13T18:57:11Z
+jacobbinnie,Jacob Binnie,,"London, United Kingdom",,false,,11,1483,9,2021-05-07T05:08:33Z
+kadikraman,Kadi Kraman,EXPO ,London,hellokadi@gmail.com,false,,101,1469,20,2014-01-29T12:12:30Z
+umaar,Umar Hansa,,London,umar.hansa@gmail.com,false,Front-end web developer,485,1461,1382,2010-08-31T02:42:45Z
+jcoglan,James Coglan,,London,,false,,168,1456,44,2008-05-04T14:39:21Z
+mikedewar,Mike Dewar,MASTERCARD,London,mikedewar@gmail.com,false,"Vice President of Data Science at MasterCard
 ",124,1420,16,2009-11-05T10:14:53Z
-albinotonnina,Albino Tonnina,ASOS ,London,albinotonnina@gmail.com,False,"
+albinotonnina,Albino Tonnina,ASOS ,London,albinotonnina@gmail.com,false,"
 ",116,1413,1,2008-11-29T21:47:06Z
-peter-lawrey,Peter Lawrey,CHRONICLE SOFTWARE,London,,False,"CEO of Chronicle Software, 13K answers for Java and JVM on StackOverflow.com, ""Vanilla Java"" blog with 4M+ views, Java Champion",78,1396,8,2011-09-22T07:52:31Z
-samdutton,Sam Dutton,SAM DUTTON,"London, England",,False,"Developer Advocate for Google Chrome. Born in South Australia, based in London. 
+peter-lawrey,Peter Lawrey,CHRONICLE SOFTWARE,London,,false,"CEO of Chronicle Software, 13K answers for Java and JVM on StackOverflow.com, ""Vanilla Java"" blog with 4M+ views, Java Champion",78,1396,8,2011-09-22T07:52:31Z
+samdutton,Sam Dutton,SAM DUTTON,"London, England",,false,"Developer Advocate for Google Chrome. Born in South Australia, based in London.
 Creator of simpl.info: simplest-possible examples of HTML, CSS and JavaScript.",128,1374,2,2010-02-17T11:25:01Z
-a7v8x,David Mraz,ATHEROSAI ,London / Prague,,True,"Founder at @atherosai, Python, Javascript, C++ | Machine learning engineer | NLP/NLU
+a7v8x,David Mraz,ATHEROSAI ,London / Prague,,true,"Founder at @atherosai, Python, Javascript, C++ | Machine learning engineer | NLP/NLU
 https://atheros.ai/blog",14,1343,21,2016-03-10T00:44:56Z
-nelstrom,Drew Neil,,"London, UK",,False,,127,1341,31,2008-04-13T11:37:35Z
-postspectacular,Karsten Schmidt,,"Allgäu, formerly London",,False,"Maker of @thi-ng. Opensource computational design tools since 1999, geom, data, viz, algos, fab, art, edu, ex-@Nike-inc",56,1332,39,2009-02-06T11:00:57Z
-dylanbeattie,Dylan Beattie,URSATILE  ,"London, UK",dylan@dylanbeattie.net,False,"Developer, speaker, musician. Creator of @RockstarLang. C#, JavaScript, SQL, HTTP/REST, distributed systems, 80s rock music, hats, cats, Lego, guitars & travel.",195,1315,20,2009-07-17T23:21:39Z
-jackfranklin,Jack Franklin,GOOGLE,London,jack@jackfranklin.net,False,"JavaScript, React, ES2015+ and Elm.",342,1310,88,2010-01-31T09:29:32Z
-Lukasa,Cory Benfield,APPLE,"London, England",cory@lukasa.co.uk,False,"Professional open source developer with a long background in building networking tools. Creator of @python-hyper, core developer of Swift NIO. Everywhere.",161,1305,10,2012-01-26T16:58:46Z
-bashtage,Kevin Sheppard,,"London, UK",,False,,40,1290,0,2013-10-01T11:57:59Z
-benjojo,Ben Cox,,London,,False,,138,1289,109,2012-03-05T21:50:07Z
-bookercodes,Alex Booker,CLERK,London,,False,Content creator who codes @ Clerk | Host of the Scrimba Podcast,44,1268,1,2015-04-13T16:07:05Z
-kelset,Lorenzo Sciandra,SOVEREIGN TECH FUND,"London, UK",notkelset@kelset.dev,False,"Technologist @sovereigntechfund, making OSS more sustainable one initiative at the time.",99,1258,441,2015-12-01T16:26:51Z
-OlafenwaMoses,MOSES OLAFENWA,,London,guymodscientist@gmail.com,True,"Software Engineer, Self-taught computer programmer, Deep Learning, Computer Vision Engineer.
+nelstrom,Drew Neil,,"London, UK",,false,,127,1341,31,2008-04-13T11:37:35Z
+postspectacular,Karsten Schmidt,,"Allgäu, formerly London",,false,"Maker of @thi-ng. Opensource computational design tools since 1999, geom, data, viz, algos, fab, art, edu, ex-@Nike-inc",56,1332,39,2009-02-06T11:00:57Z
+dylanbeattie,Dylan Beattie,URSATILE  ,"London, UK",dylan@dylanbeattie.net,false,"Developer, speaker, musician. Creator of @RockstarLang. C#, JavaScript, SQL, HTTP/REST, distributed systems, 80s rock music, hats, cats, Lego, guitars & travel.",195,1315,20,2009-07-17T23:21:39Z
+jackfranklin,Jack Franklin,GOOGLE,London,jack@jackfranklin.net,false,"JavaScript, React, ES2015+ and Elm.",342,1310,88,2010-01-31T09:29:32Z
+Lukasa,Cory Benfield,APPLE,"London, England",cory@lukasa.co.uk,false,"Professional open source developer with a long background in building networking tools. Creator of @python-hyper, core developer of Swift NIO. Everywhere.",161,1305,10,2012-01-26T16:58:46Z
+bashtage,Kevin Sheppard,,"London, UK",,false,,40,1290,0,2013-10-01T11:57:59Z
+benjojo,Ben Cox,,London,,false,,138,1289,109,2012-03-05T21:50:07Z
+bookercodes,Alex Booker,CLERK,London,,false,Content creator who codes @ Clerk | Host of the Scrimba Podcast,44,1268,1,2015-04-13T16:07:05Z
+kelset,Lorenzo Sciandra,SOVEREIGN TECH FUND,"London, UK",notkelset@kelset.dev,false,"Technologist @sovereigntechfund, making OSS more sustainable one initiative at the time.",99,1258,441,2015-12-01T16:26:51Z
+OlafenwaMoses,MOSES OLAFENWA,,London,guymodscientist@gmail.com,true,"Software Engineer, Self-taught computer programmer, Deep Learning, Computer Vision Engineer.
 Creator of ImageAI.
 Previously @Microsoft and @Babylonhealth",43,1249,36,2013-11-11T14:38:13Z
-arkivanov,Arkadii Ivanov,X (TWITTER),"London, UK",arkann1985@gmail.com,False,"Staff Software Engineer @ X (Twitter). Passionate about Kotlin Multiplatform, MVI and reactive programming.",46,1229,0,2017-03-05T17:18:45Z
-abreslav,Andrey Breslav,,"London, UK",inbox@abreslav.com,False,I was in charge of creating the Kotlin programming language. Worked on it from the start (2010) till 2020 as the Language Designer and Project Lead,58,1229,0,2011-07-01T08:59:57Z
-MicheleBertoli,Michele Bertoli,FACEBOOK,"London, England",,False,,90,1223,214,2012-01-06T09:25:57Z
-jevakallio,Jani Eväkallio,,London,jani.evakallio@gmail.com,True,,148,1214,0,2011-11-18T08:28:16Z
-MattIPv4,Matt Cowley,ALVEUSGG @CDNJS,"London, United Kingdom",me@mattcowley.co.uk,False,Open-source Software Engineer by night @AlveusGG 🌎 + @cdnjs 🛠️ + @JingleJam ❄️,125,1206,24,2015-05-09T12:50:36Z
-jakewright,Jake Wright,MONZO ,London,,False,Software Developer and YouTuber,15,1205,8,2013-08-28T20:39:44Z
-RichardWarburton,Richard Warburton,MONOTONIC LTD.,"London, UK.",,False,,81,1170,144,2010-07-10T11:01:50Z
-benanne,Sander Dieleman,,"London, UK",sanderdieleman@gmail.com,False,,24,1163,10,2009-01-02T20:40:56Z
-sixeyed,Elton Stoneman,,London,elton@sixeyed.com,False,"Freelance consultant and trainer. Docker Captain.
-14x Microsoft Azure MVP. 
-Pluralsight author. 
-Manning author. 
+arkivanov,Arkadii Ivanov,X (TWITTER),"London, UK",arkann1985@gmail.com,false,"Staff Software Engineer @ X (Twitter). Passionate about Kotlin Multiplatform, MVI and reactive programming.",46,1229,0,2017-03-05T17:18:45Z
+abreslav,Andrey Breslav,,"London, UK",inbox@abreslav.com,false,I was in charge of creating the Kotlin programming language. Worked on it from the start (2010) till 2020 as the Language Designer and Project Lead,58,1229,0,2011-07-01T08:59:57Z
+MicheleBertoli,Michele Bertoli,FACEBOOK,"London, England",,false,,90,1223,214,2012-01-06T09:25:57Z
+jevakallio,Jani Eväkallio,,London,jani.evakallio@gmail.com,true,,148,1214,0,2011-11-18T08:28:16Z
+MattIPv4,Matt Cowley,ALVEUSGG @CDNJS,"London, United Kingdom",me@mattcowley.co.uk,false,Open-source Software Engineer by night @AlveusGG 🌎 + @cdnjs 🛠️ + @JingleJam ❄️,125,1206,24,2015-05-09T12:50:36Z
+jakewright,Jake Wright,MONZO ,London,,false,Software Developer and YouTuber,15,1205,8,2013-08-28T20:39:44Z
+RichardWarburton,Richard Warburton,MONOTONIC LTD.,"London, UK.",,false,,81,1170,144,2010-07-10T11:01:50Z
+benanne,Sander Dieleman,,"London, UK",sanderdieleman@gmail.com,false,,24,1163,10,2009-01-02T20:40:56Z
+sixeyed,Elton Stoneman,,London,elton@sixeyed.com,false,"Freelance consultant and trainer. Docker Captain.
+14x Microsoft Azure MVP.
+Pluralsight author.
+Manning author.
 Ex-@docker.",280,1157,0,2009-11-24T07:18:17Z
-FranxYao,Yao Fu,,London,,False,Know me through my code,50,1151,32,2016-03-08T12:33:30Z
-FlexMonkey,simon gladman,,"London, United Kingdom",sgladman@gmail.com,True,,104,1145,1,2013-12-19T08:52:10Z
-TerryCavanagh,Terry Cavanagh,,London,,False,,42,1136,14,2012-11-23T21:20:11Z
-perone,Christian S. Perone,,"London, United Kingdom",,True,Machine Learning / Research,48,1126,202,2010-09-23T00:55:06Z
-rachelnabors,R L Nabors,,London,,True,Built/wrote react.dev with folks. Wrote a book on incorporating meaningful animations into web design. Used to make award-winning comics for teenage girls,43,1126,8,2010-04-03T16:17:36Z
-hackerkid,Vishnu Ks,YELP @DIFFBLOG,London,yo@vishnuks.com,True,"
+FranxYao,Yao Fu,,London,,false,Know me through my code,50,1151,32,2016-03-08T12:33:30Z
+FlexMonkey,simon gladman,,"London, United Kingdom",sgladman@gmail.com,true,,104,1145,1,2013-12-19T08:52:10Z
+TerryCavanagh,Terry Cavanagh,,London,,false,,42,1136,14,2012-11-23T21:20:11Z
+perone,Christian S. Perone,,"London, United Kingdom",,true,Machine Learning / Research,48,1126,202,2010-09-23T00:55:06Z
+rachelnabors,R L Nabors,,London,,true,Built/wrote react.dev with folks. Wrote a book on incorporating meaningful animations into web design. Used to make award-winning comics for teenage girls,43,1126,8,2010-04-03T16:17:36Z
+hackerkid,Vishnu Ks,YELP @DIFFBLOG,London,yo@vishnuks.com,true,"
 ",225,1121,30,2014-04-05T17:21:58Z
-padolsey,James Padolsey,,"London, UK, Europe",,True,perpetual amateur & coder & humanist & human,70,1112,36,2009-03-03T20:55:39Z
-jkup,Jon Kuperman,BLOOMBERG,London,jon.kuperman@gmail.com,False,Engineer at @bloomberg. @tc39 working on source maps. Teaching at @frontendmasters.,217,1098,53,2010-11-21T03:35:02Z
-quii,Chris James,,"London, UK",,False,,113,1093,24,2011-02-22T11:22:20Z
-wakaleo,John Ferguson Smart,WAKALEO CONSULTING,"London, UK",,True,,78,1065,0,2009-02-19T18:37:08Z
-alanshaw,ash,STORACHA NETWORK,London,,True,It was an uphill battle but they didn’t know we were gonna use the roads as a ramp to take off.,498,1063,29,2009-11-13T14:39:19Z
-eddyerburgh,Edward Wardell-Yerburgh,FACEBOOK,London,,False,Building the future,62,1061,5,2015-07-06T07:36:51Z
-wagerfield,Matthew Wagerfield,MOON,London,,True,,85,1058,40,2010-09-23T10:31:39Z
-AhmedSoliman,Ahmed Farghal,RESTATEDEV ,"London, UK",,False,I build and break things for fun and profit!,70,1051,49,2009-03-03T11:39:50Z
-karlicoss,,,"London, UK",karlicoss@gmail.com,False,Friendly robot,260,1016,83,2010-05-30T11:47:14Z
-netbiosX,netbiosX,PENTESTLAB,London,,False,Director of Pentest Laboratories,60,1015,44,2012-11-20T20:48:07Z
-ixahmedxi,Ahmed Elsakaan,,"London, United Kingdom",ahmedtarek3214@gmail.com,True,"Frontend web developer, passionate about making really cool web apps.",47,1015,60,2016-07-03T23:22:19Z
-sandromancuso,Sandro Mancuso,HTTP://CODURANCE.COM,London,sandromancuso@gmail.com,True,,66,1014,37,2010-08-16T01:51:36Z
-shubheksha,Shubheksha,,"London, England",,True,I love computers.,33,1013,94,2014-05-25T09:06:47Z
-epinna,Emilio,,"London, United Kingdom",,False,"Red teamer, loves coding offensive tools to exploit your favourite softwares.",22,1011,147,2012-03-27T07:45:46Z
-igorwojda,Igor Wojda,,"London, UK",,False,"👉Android Developer Advocate 
+padolsey,James Padolsey,,"London, UK, Europe",,true,perpetual amateur & coder & humanist & human,70,1112,36,2009-03-03T20:55:39Z
+jkup,Jon Kuperman,BLOOMBERG,London,jon.kuperman@gmail.com,false,Engineer at @bloomberg. @tc39 working on source maps. Teaching at @frontendmasters.,217,1098,53,2010-11-21T03:35:02Z
+quii,Chris James,,"London, UK",,false,,113,1093,24,2011-02-22T11:22:20Z
+wakaleo,John Ferguson Smart,WAKALEO CONSULTING,"London, UK",,true,,78,1065,0,2009-02-19T18:37:08Z
+alanshaw,ash,STORACHA NETWORK,London,,true,It was an uphill battle but they didn’t know we were gonna use the roads as a ramp to take off.,498,1063,29,2009-11-13T14:39:19Z
+eddyerburgh,Edward Wardell-Yerburgh,FACEBOOK,London,,false,Building the future,62,1061,5,2015-07-06T07:36:51Z
+wagerfield,Matthew Wagerfield,MOON,London,,true,,85,1058,40,2010-09-23T10:31:39Z
+AhmedSoliman,Ahmed Farghal,RESTATEDEV ,"London, UK",,false,I build and break things for fun and profit!,70,1051,49,2009-03-03T11:39:50Z
+karlicoss,,,"London, UK",karlicoss@gmail.com,false,Friendly robot,260,1016,83,2010-05-30T11:47:14Z
+netbiosX,netbiosX,PENTESTLAB,London,,false,Director of Pentest Laboratories,60,1015,44,2012-11-20T20:48:07Z
+ixahmedxi,Ahmed Elsakaan,,"London, United Kingdom",ahmedtarek3214@gmail.com,true,"Frontend web developer, passionate about making really cool web apps.",47,1015,60,2016-07-03T23:22:19Z
+sandromancuso,Sandro Mancuso,HTTP://CODURANCE.COM,London,sandromancuso@gmail.com,true,,66,1014,37,2010-08-16T01:51:36Z
+shubheksha,Shubheksha,,"London, England",,true,I love computers.,33,1013,94,2014-05-25T09:06:47Z
+epinna,Emilio,,"London, United Kingdom",,false,"Red teamer, loves coding offensive tools to exploit your favourite softwares.",22,1011,147,2012-03-27T07:45:46Z
+igorwojda,Igor Wojda,,"London, UK",,false,"👉Android Developer Advocate
 👉Author of ""Android Development with Kotlin"" book
 👉Follow me on twitter ",52,1004,21,2010-12-20T04:26:04Z
-davem330,David S. Miller,RED HAT INC.,"London, UK",,False,,4,999,3,2011-09-15T17:46:56Z
-davidstutz,David Stutz,,"London, UK",,True,"Research scientist at DeepMind, davidstutz.de, hello@davidstutz.de",123,995,298,2011-11-17T21:37:15Z
-knowbody,Mateusz Zatorski,,"🇬🇧 London, UK | Wroclaw, PL 🇵🇱",mateuszzatorski@gmail.com,True,I am always a beginner.,150,988,90,2013-03-07T20:06:14Z
-leeper,Thomas J. Leeper,,"London, United Kingdom",,False,Behavioral scientist and R hacker,174,986,359,2013-02-07T21:07:00Z
-sole,sole,,"London, UK",,False,Biodegradable,250,979,12,2008-04-07T16:27:00Z
-bwplotka,Bartlomiej Plotka,GOOGLE,"London, UK",,False,"Fascinated by challenging engineering problems & distributed systems. Go & OSS fan. 
+davem330,David S. Miller,RED HAT INC.,"London, UK",,false,,4,999,3,2011-09-15T17:46:56Z
+davidstutz,David Stutz,,"London, UK",,true,"Research scientist at DeepMind, davidstutz.de, hello@davidstutz.de",123,995,298,2011-11-17T21:37:15Z
+knowbody,Mateusz Zatorski,,"🇬🇧 London, UK | Wroclaw, PL 🇵🇱",mateuszzatorski@gmail.com,true,I am always a beginner.,150,988,90,2013-03-07T20:06:14Z
+leeper,Thomas J. Leeper,,"London, United Kingdom",,false,Behavioral scientist and R hacker,174,986,359,2013-02-07T21:07:00Z
+sole,sole,,"London, UK",,false,Biodegradable,250,979,12,2008-04-07T16:27:00Z
+bwplotka,Bartlomiej Plotka,GOOGLE,"London, UK",,false,"Fascinated by challenging engineering problems & distributed systems. Go & OSS fan.
 Prometheus maintainer, Thanos co-author. CNCF TAG Observability Tech Lead.",164,979,38,2014-03-14T10:36:39Z
-pablogsal,Pablo Galindo Salgado,BLOOMBERG,"London, United Kingdom",Pablogsal@gmail.com,False,"@python steering council, core developer, and @psf fellow. I hate symbols but I love linkers.",86,975,16,2015-03-30T11:01:27Z
-alexgarrettsmith,Alex Garrett-Smith,CODECOURSE,London,alex@codecourse.com,False,,14,965,0,2012-04-30T16:12:04Z
-nigeljyng,Nigel Ng,,"London, UK",,False,,12,960,9,2015-08-05T08:28:43Z
-valeman,valeman,BIG BUSINESS,"London, UK",,True,Machine Learning | Probabilistic Prediction | Time-series | Systematic Trading | Forecasting Innovation  | Creator of Awesome Conformal Prediction,1884,959,234,2017-03-05T15:55:12Z
-OsandaMalith,Osanda Malith Jayathissa,VISA,London,,True,"Love to break things, make things and make things that break things :)
+pablogsal,Pablo Galindo Salgado,BLOOMBERG,"London, United Kingdom",Pablogsal@gmail.com,false,"@python steering council, core developer, and @psf fellow. I hate symbols but I love linkers.",86,975,16,2015-03-30T11:01:27Z
+alexgarrettsmith,Alex Garrett-Smith,CODECOURSE,London,alex@codecourse.com,false,,14,965,0,2012-04-30T16:12:04Z
+nigeljyng,Nigel Ng,,"London, UK",,false,,12,960,9,2015-08-05T08:28:43Z
+valeman,valeman,BIG BUSINESS,"London, UK",,true,Machine Learning | Probabilistic Prediction | Time-series | Systematic Trading | Forecasting Innovation  | Creator of Awesome Conformal Prediction,1884,959,234,2017-03-05T15:55:12Z
+OsandaMalith,Osanda Malith Jayathissa,VISA,London,,true,"Love to break things, make things and make things that break things :)
 Just another security researcher interested in exploring new things. ",72,953,10,2013-05-22T07:59:24Z
-cdown,Chris Down,FACEBOOK,"London, England",chris@chrisdown.name,False,"I keep @facebook running as part of Meta's Linux Kernel team, and also help maintain @systemd.
+cdown,Chris Down,FACEBOOK,"London, England",chris@chrisdown.name,false,"I keep @facebook running as part of Meta's Linux Kernel team, and also help maintain @systemd.
 
 I mostly work on memory management and cgroups.",119,952,18,2011-03-09T21:14:25Z
-alexyoung,Alex Young,,"London, England",,False,,134,950,15,2008-04-24T08:39:57Z
-eviltester,Alan Richardson,COMPENDIUM DEVELOPMENTS LTD,"London, England",,False,"Author of ""Dear Evil Tester"", ""Java For Testers"", ""Automating and Testing a REST API"", ""Selenium Simplified"".",106,945,54,2012-10-22T11:47:55Z
-iancooper,Ian Cooper,BRIGHTERCOMMAND ,"London, Enland",ian_hammond_cooper@yahoo.co.uk,False,"Polyglot Coding Architect in London, founder of #ldnug, speaker, tabletop gamer, geek. Tattooed, pierced, and bearded. The 'guv' on @BrighterCommand: ",40,935,8,2009-01-10T12:17:12Z
-azimidev,Azimi,LARAVEL @VUEJS @REACTJS,"London, UK",info@azimi.dev,True,Software Engineer | Lead Full Stack Web Developer,80,934,30,2013-06-24T22:52:36Z
-everzet,Konstantin Kudryashov,,"London, UK",,False,,70,933,45,2008-10-24T11:01:41Z
-nitin42,Nitin Tulswani,,"London, United Kingdom",tulswani19@gmail.com,False,,286,925,214,2015-12-17T11:58:27Z
-pradyunsg,Pradyun Gedam,BLOOMBERG PYTHON INFRASTRUCTURE,"London, UK",,False,"@pypa member, @psf fellow, @toml-lang core, @sphinx-doc contributor. Past intern at @enthought and IITB.
+alexyoung,Alex Young,,"London, England",,false,,134,950,15,2008-04-24T08:39:57Z
+eviltester,Alan Richardson,COMPENDIUM DEVELOPMENTS LTD,"London, England",,false,"Author of ""Dear Evil Tester"", ""Java For Testers"", ""Automating and Testing a REST API"", ""Selenium Simplified"".",106,945,54,2012-10-22T11:47:55Z
+iancooper,Ian Cooper,BRIGHTERCOMMAND ,"London, Enland",ian_hammond_cooper@yahoo.co.uk,false,"Polyglot Coding Architect in London, founder of #ldnug, speaker, tabletop gamer, geek. Tattooed, pierced, and bearded. The 'guv' on @BrighterCommand: ",40,935,8,2009-01-10T12:17:12Z
+azimidev,Azimi,LARAVEL @VUEJS @REACTJS,"London, UK",info@azimi.dev,true,Software Engineer | Lead Full Stack Web Developer,80,934,30,2013-06-24T22:52:36Z
+everzet,Konstantin Kudryashov,,"London, UK",,false,,70,933,45,2008-10-24T11:01:41Z
+nitin42,Nitin Tulswani,,"London, United Kingdom",tulswani19@gmail.com,false,,286,925,214,2015-12-17T11:58:27Z
+pradyunsg,Pradyun Gedam,BLOOMBERG PYTHON INFRASTRUCTURE,"London, UK",,false,"@pypa member, @psf fellow, @toml-lang core, @sphinx-doc contributor. Past intern at @enthought and IITB.
 
 Don't email or tweet me for tech support.",168,913,8,2013-01-15T13:45:19Z
-zhovner,Pavel Zhovner,FLIPPER DEVICES INC.,"London, UK",pavel@zhovner.com,True,Techno Freak | Flipper Zero developer https://flipperzero.one,57,911,28,2011-05-07T19:29:27Z
-Billy-Ellis,Billy Ellis,ZYGOSEC ,London,billy@zygosec.com,False,"Interested in iOS, ARM, Reverse Engineering & Exploit Development",20,906,57,2015-09-12T09:52:44Z
-xtuc,Sven Sauleau,,"London, UK",github@sauleau.com,True,https://twitter.com/svensauleau,326,900,27,2012-03-02T17:07:38Z
-jnewbery,John Newbery,,"London, UK",,True,,76,897,11,2011-09-20T00:13:45Z
-julianstorer,Julian Storer,TRACKTION @CMAJOR-LANG ,"London, UK",julianstorer@gmail.com,False,"Developer/founder in the audio tech industry since the '90s. Some notable things that I've created include @Tracktion, @juce-framework and @cmajor-lang ",4,878,10,2010-04-22T15:01:07Z
-glebm,Gleb Mazovetskiy,GOOGLE,London,,False,Open-source all the things.,348,878,355,2010-03-05T05:51:35Z
-FilipGrebowski,Filip Grebowski,PERMIT.IO,"London, United Kingdom",,True,"Computer Science graduate. Software Engineer at Cisco. YouTube creator, Getty Images contributor and a serious programmer.",19,877,7,2017-12-04T21:57:05Z
-kaz-Anova,Marios Michailidis,,London,kazanovassoftware@gmail.com,False,Competitive Data Scientist at H2o.ai,10,874,9,2014-05-20T13:09:34Z
-csteinmetz1,Christian J. Steinmetz,AIM-QMUL ,"London, UK",c.j.steinmetz@qmul.ac.uk,True,Machine learning for Hi-Fi audio. PhD Researcher at C4DM.,96,871,818,2016-01-28T02:45:39Z
-MaksimAbramchuk,Maksim Abramchuk,,"London, UK",MaximAbramchuck@gmail.com,True,,24,860,160,2013-11-14T19:32:40Z
-eleurent,Edouard Leurent,GOOGLE DEEPMIND,London,eleurent@gmail.com,False,Research Scientist @GoogleDeepMind,54,853,448,2012-05-04T19:43:36Z
-poyea,John Law,AMZN,Hong Kong ↦ London,poyea@pm.me,True,Ex-Hong-Kong reboot software développeur in London,87,839,331,2016-12-24T19:16:15Z
-AnaisUrlichs,Anais Urlichs,,London,,False,Platform Engineer,109,835,49,2017-11-11T15:28:14Z
-danicat,Daniela Petruzalek,,"London, UK",daniela.petruzalek@gmail.com,True,"Executive Director at JPMC, Google Developer Expert - Go & GCP, speaker, blogger and cat lover =^.^=",73,835,38,2013-09-24T21:06:28Z
-alexanderGugel,Alexander Gugel,FACEBOOK,London,alexander.gugel@gmail.com,True,,195,832,67,2011-04-01T12:12:10Z
-tugberkugurlu,Tugberk Ugurlu,DELIVEROO,"London, UK",,False,"software engineering things at 
+zhovner,Pavel Zhovner,FLIPPER DEVICES INC.,"London, UK",pavel@zhovner.com,true,Techno Freak | Flipper Zero developer https://flipperzero.one,57,911,28,2011-05-07T19:29:27Z
+Billy-Ellis,Billy Ellis,ZYGOSEC ,London,billy@zygosec.com,false,"Interested in iOS, ARM, Reverse Engineering & Exploit Development",20,906,57,2015-09-12T09:52:44Z
+xtuc,Sven Sauleau,,"London, UK",github@sauleau.com,true,https://twitter.com/svensauleau,326,900,27,2012-03-02T17:07:38Z
+jnewbery,John Newbery,,"London, UK",,true,,76,897,11,2011-09-20T00:13:45Z
+julianstorer,Julian Storer,TRACKTION @CMAJOR-LANG ,"London, UK",julianstorer@gmail.com,false,"Developer/founder in the audio tech industry since the '90s. Some notable things that I've created include @Tracktion, @juce-framework and @cmajor-lang ",4,878,10,2010-04-22T15:01:07Z
+glebm,Gleb Mazovetskiy,GOOGLE,London,,false,Open-source all the things.,348,878,355,2010-03-05T05:51:35Z
+FilipGrebowski,Filip Grebowski,PERMIT.IO,"London, United Kingdom",,true,"Computer Science graduate. Software Engineer at Cisco. YouTube creator, Getty Images contributor and a serious programmer.",19,877,7,2017-12-04T21:57:05Z
+kaz-Anova,Marios Michailidis,,London,kazanovassoftware@gmail.com,false,Competitive Data Scientist at H2o.ai,10,874,9,2014-05-20T13:09:34Z
+csteinmetz1,Christian J. Steinmetz,AIM-QMUL ,"London, UK",c.j.steinmetz@qmul.ac.uk,true,Machine learning for Hi-Fi audio. PhD Researcher at C4DM.,96,871,818,2016-01-28T02:45:39Z
+MaksimAbramchuk,Maksim Abramchuk,,"London, UK",MaximAbramchuck@gmail.com,true,,24,860,160,2013-11-14T19:32:40Z
+eleurent,Edouard Leurent,GOOGLE DEEPMIND,London,eleurent@gmail.com,false,Research Scientist @GoogleDeepMind,54,853,448,2012-05-04T19:43:36Z
+poyea,John Law,AMZN,Hong Kong ↦ London,poyea@pm.me,true,Ex-Hong-Kong reboot software développeur in London,87,839,331,2016-12-24T19:16:15Z
+AnaisUrlichs,Anais Urlichs,,London,,false,Platform Engineer,109,835,49,2017-11-11T15:28:14Z
+danicat,Daniela Petruzalek,,"London, UK",daniela.petruzalek@gmail.com,true,"Executive Director at JPMC, Google Developer Expert - Go & GCP, speaker, blogger and cat lover =^.^=",73,835,38,2013-09-24T21:06:28Z
+alexanderGugel,Alexander Gugel,FACEBOOK,London,alexander.gugel@gmail.com,true,,195,832,67,2011-04-01T12:12:10Z
+tugberkugurlu,Tugberk Ugurlu,DELIVEROO,"London, UK",,false,"software engineering things at
 @deliveroo, enjoys speaking at tech conferences, occasionally blogs, authored a book once (not doing it again), F1 fan 🏎",285,824,217,2010-07-10T09:02:37Z
-mariusschulz,Marius Schulz,FACEBOOK,"London, England",,False,Software Engineer at Threads. Passionate about all things Web!,54,819,28,2011-07-29T20:07:09Z
-alexbilbie,Alex Bilbie,MUZZAPP ,London,,False,"Head of Engineering at @muzzapp, previously CTO at @mesgai and Head of Engineering @popsa-hq",26,817,1,2009-04-26T12:58:33Z
-scribu,Cristi Burcă,,"London, UK",,False,"Machine Learning Engineer. Formerly, @wp-cli maintainer.",137,812,24,2010-03-18T22:18:02Z
-rtyley,Roberto Tyley,GUARDIAN ,"London, United Kingdom",,False,,184,808,18,2009-02-05T11:56:30Z
-ahmetabdi,Ahmet Abdi,HOME,London,ahmetabdi@gmail.com,True,"You take the red pill, you stay in Wonderland, and I show you how deep the rabbit hole goes…",148,806,52578,2011-05-09T23:57:41Z
-chshersh,Dmitrii Kovanikov,BLOOMBERG,"London, UK",chshersh@gmail.com,False,Senior Software Engineer at Bloomberg using OCaml,45,803,65,2013-04-27T23:35:02Z
-LondonAppDev,Mark Winterbottom,LONDON APP DEVELOPER LTD.,London,,False,Full-Stack Consultant Software Developer @LondonAppDeveloper. ,93,800,2,2013-06-15T08:56:30Z
-spences10,Scott Spence,XTENDOPS-DEVELOPERS,"London, United Kingdom",,True,I've never Svelte like this before!,239,797,390,2010-04-01T05:52:38Z
-salaboy,salaboy,DIAGRID,"London, UK",Salaboy@gmail.com,False,"OSS Software Engineer @diagridio 
-Working on @dapr and @knative  Steering Committee member and Knative Functions WG Co-Lead. 
+mariusschulz,Marius Schulz,FACEBOOK,"London, England",,false,Software Engineer at Threads. Passionate about all things Web!,54,819,28,2011-07-29T20:07:09Z
+alexbilbie,Alex Bilbie,MUZZAPP ,London,,false,"Head of Engineering at @muzzapp, previously CTO at @mesgai and Head of Engineering @popsa-hq",26,817,1,2009-04-26T12:58:33Z
+scribu,Cristi Burcă,,"London, UK",,false,"Machine Learning Engineer. Formerly, @wp-cli maintainer.",137,812,24,2010-03-18T22:18:02Z
+rtyley,Roberto Tyley,GUARDIAN ,"London, United Kingdom",,false,,184,808,18,2009-02-05T11:56:30Z
+ahmetabdi,Ahmet Abdi,HOME,London,ahmetabdi@gmail.com,true,"You take the red pill, you stay in Wonderland, and I show you how deep the rabbit hole goes…",148,806,52578,2011-05-09T23:57:41Z
+chshersh,Dmitrii Kovanikov,BLOOMBERG,"London, UK",chshersh@gmail.com,false,Senior Software Engineer at Bloomberg using OCaml,45,803,65,2013-04-27T23:35:02Z
+LondonAppDev,Mark Winterbottom,LONDON APP DEVELOPER LTD.,London,,false,Full-Stack Consultant Software Developer @LondonAppDeveloper. ,93,800,2,2013-06-15T08:56:30Z
+spences10,Scott Spence,XTENDOPS-DEVELOPERS,"London, United Kingdom",,true,I've never Svelte like this before!,239,797,390,2010-04-01T05:52:38Z
+salaboy,salaboy,DIAGRID,"London, UK",Salaboy@gmail.com,false,"OSS Software Engineer @diagridio
+Working on @dapr and @knative  Steering Committee member and Knative Functions WG Co-Lead.
 ex- (@redhatofficial / @vmware )",574,793,75,2010-05-10T00:25:12Z
-Integralist,Mark McDonnell,FASTLY ,London,,True,Staff Software Engineer @Fastly. ,163,788,12,2010-01-11T14:26:47Z
-NicolasHug,Nicolas Hug,,London,contact@nicolas-hug.com,False,"ML engineer, Scikit-learn core-dev, working on PyTorch at Meta AI",80,785,0,2011-11-12T15:05:39Z
-aslakhellesoy,Aslak Hellesøy,SMARTBEAR,"London, UK",,True,🥒,199,784,1,2008-02-26T22:58:16Z
-Dan-Piker,Daniel Piker,,London,,False,,15,775,15,2011-11-29T22:39:33Z
-katzien,Kat Zień-Mendes,,"London, UK",,False,,18,774,31,2011-03-25T19:17:58Z
-michalmuskala,Michał Muskała,WHATSAPP,London,,False,,167,769,24,2010-11-11T09:11:30Z
-jessicayung,Jessica Yung,GOOGLE DEEPMIND,London,,False,"Research engineer at Deepmind. Previously at Google Brain, Cambridge, UCL, NVIDIA scholar.",53,767,14,2015-02-19T03:57:23Z
-ocharles,Ollie Charles,CIRCUITHUB,London,ollie@ocharles.org.uk,False,,384,766,39,2008-08-16T17:58:52Z
-lukejacksonn,Luke Jackson,,"London, UK",,False,"Frontend developer interested in user interfaces, API architecture and functional programming.",122,765,116,2012-02-21T14:48:44Z
-linusg,Linus Groh,BLOOMBERG,"London, UK",mail@linusgroh.de,False,"JS engine enjoyer, @tc39 delegate, former @SerenityOS maintainer & @LadybirdBrowser dev, web enthusiast.
+Integralist,Mark McDonnell,FASTLY ,London,,true,Staff Software Engineer @Fastly. ,163,788,12,2010-01-11T14:26:47Z
+NicolasHug,Nicolas Hug,,London,contact@nicolas-hug.com,false,"ML engineer, Scikit-learn core-dev, working on PyTorch at Meta AI",80,785,0,2011-11-12T15:05:39Z
+aslakhellesoy,Aslak Hellesøy,SMARTBEAR,"London, UK",,true,🥒,199,784,1,2008-02-26T22:58:16Z
+Dan-Piker,Daniel Piker,,London,,false,,15,775,15,2011-11-29T22:39:33Z
+katzien,Kat Zień-Mendes,,"London, UK",,false,,18,774,31,2011-03-25T19:17:58Z
+michalmuskala,Michał Muskała,WHATSAPP,London,,false,,167,769,24,2010-11-11T09:11:30Z
+jessicayung,Jessica Yung,GOOGLE DEEPMIND,London,,false,"Research engineer at Deepmind. Previously at Google Brain, Cambridge, UCL, NVIDIA scholar.",53,767,14,2015-02-19T03:57:23Z
+ocharles,Ollie Charles,CIRCUITHUB,London,ollie@ocharles.org.uk,false,,384,766,39,2008-08-16T17:58:52Z
+lukejacksonn,Luke Jackson,,"London, UK",,false,"Frontend developer interested in user interfaces, API architecture and functional programming.",122,765,116,2012-02-21T14:48:44Z
+linusg,Linus Groh,BLOOMBERG,"London, UK",mail@linusgroh.de,false,"JS engine enjoyer, @tc39 delegate, former @SerenityOS maintainer & @LadybirdBrowser dev, web enthusiast.
 Most of my new code is on codeberg.org :)",62,762,91,2016-05-14T22:44:13Z
-yiwenl,Yi-wen LIN,,"London, United Kingdom",,False,,93,761,0,2012-07-09T09:37:43Z
-lukehaas,Luke Haas,,London,,False,,56,756,95,2011-04-20T13:02:01Z
-sanchit-gandhi,Sanchit Gandhi,HUGGINGFACE ,"London, UK",,False,Open-Source Speech @huggingface,54,754,0,2021-11-07T13:49:43Z
-pngwn,pngwn,,"London, UK",,True,brrrrrr!,105,752,11,2015-06-17T14:11:01Z
-GavinLonDigital,Gavin Lon,GAVIN LON DIGITAL,London,,False,I am a software developer with over 20 years of experience. These repositories contain documentation and code relating to tutorials created for YouTube.,99,751,1,2018-08-28T09:11:45Z
-robjtede,Rob Ede,FINTECH,"London, UK",,False,"Rust Web Developer | Typography, UX & Security Enthusiast | Rust + TypeScript | Lead @actix | Core @deps-rs",187,751,139,2013-01-19T20:16:16Z
-davisonio,Craig Davison,OVERCULTURED,"London, UK",craig@davison.io,False,,18,750,78,2013-08-29T18:08:44Z
-chidiwilliams,Chidi Williams,,London,williamschidi1@gmail.com,False,,108,735,75,2016-03-16T13:00:34Z
-dastergon,Pavlos Ratis,APPLE,"London, United Kingdom",dastergon@gmail.com,False,Site Reliability Engineer,139,734,4,2011-11-13T22:13:00Z
-Amanieu,Amanieu d'Antras,,London,amanieu@gmail.com,False,,101,733,0,2010-05-16T16:41:16Z
-kbuzzard,Kevin Buzzard,IMPERIALCOLLEGELONDON ,London,k.buzzard@imperial.ac.uk,False,"Professor of pure mathematics at Imperial College London.
+yiwenl,Yi-wen LIN,,"London, United Kingdom",,false,,93,761,0,2012-07-09T09:37:43Z
+lukehaas,Luke Haas,,London,,false,,56,756,95,2011-04-20T13:02:01Z
+sanchit-gandhi,Sanchit Gandhi,HUGGINGFACE ,"London, UK",,false,Open-Source Speech @huggingface,54,754,0,2021-11-07T13:49:43Z
+pngwn,pngwn,,"London, UK",,true,brrrrrr!,105,752,11,2015-06-17T14:11:01Z
+GavinLonDigital,Gavin Lon,GAVIN LON DIGITAL,London,,false,I am a software developer with over 20 years of experience. These repositories contain documentation and code relating to tutorials created for YouTube.,99,751,1,2018-08-28T09:11:45Z
+robjtede,Rob Ede,FINTECH,"London, UK",,false,"Rust Web Developer | Typography, UX & Security Enthusiast | Rust + TypeScript | Lead @actix | Core @deps-rs",187,751,139,2013-01-19T20:16:16Z
+davisonio,Craig Davison,OVERCULTURED,"London, UK",craig@davison.io,false,,18,750,78,2013-08-29T18:08:44Z
+chidiwilliams,Chidi Williams,,London,williamschidi1@gmail.com,false,,108,735,75,2016-03-16T13:00:34Z
+dastergon,Pavlos Ratis,APPLE,"London, United Kingdom",dastergon@gmail.com,false,Site Reliability Engineer,139,734,4,2011-11-13T22:13:00Z
+Amanieu,Amanieu d'Antras,,London,amanieu@gmail.com,false,,101,733,0,2010-05-16T16:41:16Z
+kbuzzard,Kevin Buzzard,IMPERIALCOLLEGELONDON ,London,k.buzzard@imperial.ac.uk,false,"Professor of pure mathematics at Imperial College London.
 Currently learning about theorem provers.",116,731,0,2017-09-11T22:05:53Z
-softchris,chris,MICROSOFT,London,,False,Cloud Developer Advocate at Microsoft,245,727,5,2013-06-03T06:58:02Z
-BohdanOrlov,Bohdan Orlov,FACEBOOK,"London, United Kingdom",,False,,22,712,5,2014-02-20T17:41:52Z
-ianozsvald,Ian Ozsvald,HTTP://MORCONSULTING.COM/,"London, UK",ian@ianozsvald.com,True,"Chief Interim Data Scientist at Mor Consulting, PyDataLondon meetup+conf co-chair, international speaker, author of O'Reilly's High Performance Python",102,712,9,2010-05-11T10:22:02Z
-yannickl,Yannick Loriot,FACEBOOK,"London, England",,False,iOS developer and nodejs addict. Open-source lover and technology enthusiast.,43,711,23,2011-05-19T14:05:03Z
-jodastephen,Stephen Colebourne,OPENGAMMA,"London, UK",scolebourne@joda.org,False,"Java Champion, known for Joda projects, JSR-310 . Work at @OpenGamma on Strata market risk.",40,708,0,2010-03-01T15:50:50Z
-mottosso,Marcus Ottosson,,London,me@mottosso.com,False,Computer Artist,221,703,31,2012-08-14T19:17:28Z
-danilop,Danilo Poccia,AMAZON WEB SERVICES,"London, UK",,False,"Chief Evangelist (EMEA) @aws. ""Write less code, be Serverless"" – for compute, storage, analytics, IoT, AI/ML. My opinions. He/him.",66,702,155,2012-03-18T18:26:40Z
-patrick91,Patrick Arminio,FASTAPI,London,patrick.arminio@gmail.com,False,"Working on @strawberry-graphql, a Python library for creating GraphQL APIs 🍓
+softchris,chris,MICROSOFT,London,,false,Cloud Developer Advocate at Microsoft,245,727,5,2013-06-03T06:58:02Z
+BohdanOrlov,Bohdan Orlov,FACEBOOK,"London, United Kingdom",,false,,22,712,5,2014-02-20T17:41:52Z
+ianozsvald,Ian Ozsvald,HTTP://MORCONSULTING.COM/,"London, UK",ian@ianozsvald.com,true,"Chief Interim Data Scientist at Mor Consulting, PyDataLondon meetup+conf co-chair, international speaker, author of O'Reilly's High Performance Python",102,712,9,2010-05-11T10:22:02Z
+yannickl,Yannick Loriot,FACEBOOK,"London, England",,false,iOS developer and nodejs addict. Open-source lover and technology enthusiast.,43,711,23,2011-05-19T14:05:03Z
+jodastephen,Stephen Colebourne,OPENGAMMA,"London, UK",scolebourne@joda.org,false,"Java Champion, known for Joda projects, JSR-310 . Work at @OpenGamma on Strata market risk.",40,708,0,2010-03-01T15:50:50Z
+mottosso,Marcus Ottosson,,London,me@mottosso.com,false,Computer Artist,221,703,31,2012-08-14T19:17:28Z
+danilop,Danilo Poccia,AMAZON WEB SERVICES,"London, UK",,false,"Chief Evangelist (EMEA) @aws. ""Write less code, be Serverless"" – for compute, storage, analytics, IoT, AI/ML. My opinions. He/him.",66,702,155,2012-03-18T18:26:40Z
+patrick91,Patrick Arminio,FASTAPI,London,patrick.arminio@gmail.com,false,"Working on @strawberry-graphql, a Python library for creating GraphQL APIs 🍓
 
 @pythonitalia // @EuroPython ",350,701,726,2011-03-13T14:45:54Z
-cesarferreira,César Ferreira,NULLSAFESOLUTIONS,"London, UK",cesar.manuel.ferreira@gmail.com,True,"Senior Flutter/Android Developer, currently working as a Contractor @NullSafeSolutions",99,697,8,2010-05-15T03:02:27Z
-PierfrancescoSoffritti,Pierfrancesco Soffritti,GOOGLE,"London, UK",soffritti.pierfrancesco@gmail.com,True,Software engineer @google,34,696,40,2014-05-01T09:12:44Z
-maban,Anna Debenham,,"London, UK",,False,,69,691,37,2010-04-05T12:37:32Z
-RobertTLange,Robert Tjarko Lange,,"Tokyo, Berlin, Barcelona, London",robertlange0@gmail.com,False,"
-    
-    
+cesarferreira,César Ferreira,NULLSAFESOLUTIONS,"London, UK",cesar.manuel.ferreira@gmail.com,true,"Senior Flutter/Android Developer, currently working as a Contractor @NullSafeSolutions",99,697,8,2010-05-15T03:02:27Z
+PierfrancescoSoffritti,Pierfrancesco Soffritti,GOOGLE,"London, UK",soffritti.pierfrancesco@gmail.com,true,Software engineer @google,34,696,40,2014-05-01T09:12:44Z
+maban,Anna Debenham,,"London, UK",,false,,69,691,37,2010-04-05T12:37:32Z
+RobertTLange,Robert Tjarko Lange,,"Tokyo, Berlin, Barcelona, London",robertlange0@gmail.com,false,"
+
+
 Meta-Discovery @SakanaAI 🕵️
 
 
 ",50,690,10,2016-07-09T20:30:24Z
-jjqqkk,JJQQKK,,London,,False,Crush the game of Poker,5,689,0,2018-12-04T08:31:47Z
-risenW,Rising Odegua,NOSSA DATA,"London, England",,True,Full Stack Software Engineer | Generalist | Always Curious ,80,687,27,2017-07-04T19:32:06Z
-vrom911,Veronika Romashkina,KOWAINIK,London,vrom911@gmail.com,True,"#Learn4Haskell mentor 👩🏼‍🏫
+jjqqkk,JJQQKK,,London,,false,Crush the game of Poker,5,689,0,2018-12-04T08:31:47Z
+risenW,Rising Odegua,NOSSA DATA,"London, England",,true,Full Stack Software Engineer | Generalist | Always Curious ,80,687,27,2017-07-04T19:32:06Z
+vrom911,Veronika Romashkina,KOWAINIK,London,vrom911@gmail.com,true,"#Learn4Haskell mentor 👩🏼‍🏫
 
 Haskell Developer. Check out @kowainik to see more projects I'm working on.
 I also do @bindthegap",35,686,224,2014-07-10T16:29:26Z
-Developerayo,Shodipo Ayomide,NUKLAI (@NUKLAI),"London, United Kingdom",shodipovi@gmail.com,True,Web3 • Head of Developer Relations @Nuklai 🛠️ • Full Stack Software • Studying Space Science 🪐,268,686,29,2016-07-19T13:20:15Z
-pikax,Carlos Rodrigues,HYPERMOB ,London,carlos@hypermob.co.uk,False,"
+Developerayo,Shodipo Ayomide,NUKLAI (@NUKLAI),"London, United Kingdom",shodipovi@gmail.com,true,Web3 • Head of Developer Relations @Nuklai 🛠️ • Full Stack Software • Studying Space Science 🪐,268,686,29,2016-07-19T13:20:15Z
+pikax,Carlos Rodrigues,HYPERMOB ,London,carlos@hypermob.co.uk,false,"
     Fullstack developer, interested in @vuejs, @dotnet and @nodejs.
-Typescript 🧙‍♂️ 
+Typescript 🧙‍♂️
 Consultant 🕵️‍♂️
 ",61,677,6,2013-06-05T11:42:37Z
-bayandin,Alexander Bayandin,NEONDATABASE,"London, UK",alexander@bayandin.dev,False,"@neondatabase by day, @Homebrew by night",33,675,0,2011-06-21T12:47:39Z
-myitcv,Paul Jolly,MYITCV.IO,"London, UK",paul@myitcv.org.uk,False,Gopher working on the @cue-lang project!,104,674,34,2013-01-24T22:20:10Z
-akinsho,Akin,,London,,True,"Is building things to help you not procrastinate, procrastinating...? 🤔 🙃 ",204,671,74,2016-09-26T17:36:35Z
-lena-voita,Lena Voita,META AI RESEARCH,London,,False,Research Scientist at FAIR,11,671,0,2015-12-01T07:20:47Z
-philhawksworth,Phil Hawksworth,DENOLAND ,London,phil@deno.com,False,"Head of Developer Relations at @denoland 
+bayandin,Alexander Bayandin,NEONDATABASE,"London, UK",alexander@bayandin.dev,false,"@neondatabase by day, @Homebrew by night",33,675,0,2011-06-21T12:47:39Z
+myitcv,Paul Jolly,MYITCV.IO,"London, UK",paul@myitcv.org.uk,false,Gopher working on the @cue-lang project!,104,674,34,2013-01-24T22:20:10Z
+akinsho,Akin,,London,,true,"Is building things to help you not procrastinate, procrastinating...? 🤔 🙃 ",204,671,74,2016-09-26T17:36:35Z
+lena-voita,Lena Voita,META AI RESEARCH,London,,false,Research Scientist at FAIR,11,671,0,2015-12-01T07:20:47Z
+philhawksworth,Phil Hawksworth,DENOLAND ,London,phil@deno.com,false,"Head of Developer Relations at @denoland
 
 Previously @netlify, @rgadigital
 ",436,670,25,2008-04-08T16:52:05Z
-Kureev,Alexey Kureev,MARGELO,London,a.g.kureev@gmail.com,False,React / React Native,82,670,42,2012-09-03T22:11:17Z
-ashvardanian,Ash Vardanian,FOUNDER @ UNUM,"San Francisco, London, Yerevan",,False,"Researcher, Founder, & Investor
+Kureev,Alexey Kureev,MARGELO,London,a.g.kureev@gmail.com,false,React / React Native,82,670,42,2012-09-03T22:11:17Z
+ashvardanian,Ash Vardanian,FOUNDER @ UNUM,"San Francisco, London, Yerevan",,false,"Researcher, Founder, & Investor
 @unum-cloud, @cpp-armenia",67,668,93,2012-07-16T09:23:51Z
-TomWhitwell,Tom Whitwell,MUSIC THING,London ,,False,,56,667,12,2012-06-25T16:55:02Z
-jasonwilliams,Jason Williams,BLOOMBERG,"London, England",,False,Software Engineer @ Bloomberg,122,667,22,2011-07-24T20:07:28Z
-thomas-mcdonald,Thomas McDonald,PALANTIR,London,,True,,36,666,42,2010-02-05T18:54:22Z
-yrezgui,Yacine Rezgui,GOOGLE,"London, UK",,False,"Creative software engineer.
+TomWhitwell,Tom Whitwell,MUSIC THING,London ,,false,,56,667,12,2012-06-25T16:55:02Z
+jasonwilliams,Jason Williams,BLOOMBERG,"London, England",,false,Software Engineer @ Bloomberg,122,667,22,2011-07-24T20:07:28Z
+thomas-mcdonald,Thomas McDonald,PALANTIR,London,,true,,36,666,42,2010-02-05T18:54:22Z
+yrezgui,Yacine Rezgui,GOOGLE,"London, UK",,false,"Creative software engineer.
 Developer advocate at Google",236,664,157,2011-10-09T12:05:06Z
-Olical,Oliver Caldwell,,"London, England",ollie@oli.me.uk,False,"Conjuring up tools that help you interact with your software via Lisps, fresh coffee and esoteric keyboards.",173,663,17,2010-06-26T14:39:48Z
-benmoseley,Ben Moseley,IMPERIAL COLLEGE LONDON,London,,False,Incoming Lecturer at Imperial College London | Scientific Machine Learning,20,663,1,2017-11-16T15:29:22Z
-SonyaMoisset,Sonya Moisset,OPENUK,"London, UK",,True,"😀🌍🇫🇷🌈🦄🍱✈️💻☕️🎧🎬📷🕹️ 
+Olical,Oliver Caldwell,,"London, England",ollie@oli.me.uk,false,"Conjuring up tools that help you interact with your software via Lisps, fresh coffee and esoteric keyboards.",173,663,17,2010-06-26T14:39:48Z
+benmoseley,Ben Moseley,IMPERIAL COLLEGE LONDON,London,,false,Incoming Lecturer at Imperial College London | Scientific Machine Learning,20,663,1,2017-11-16T15:29:22Z
+SonyaMoisset,Sonya Moisset,OPENUK,"London, UK",,true,"😀🌍🇫🇷🌈🦄🍱✈️💻☕️🎧🎬📷🕹️
 INTJ-A",272,660,8,2015-07-26T11:58:55Z
-errordeveloper,Ilya Dmitrichenko,,"London, UK",errordeveloper@gmail.com,False,,319,656,1379,2010-04-24T14:31:14Z
-dimpurr,Dim Chen,ROYAL COLLEGE OF ART,London,dimpurr@live.com,True,Machine Learning / Data Mining / Web Developer / UI & UX Designer / Otaku & Illustrator / BUPT Student / Just have fun.,66,654,229,2013-08-06T10:33:36Z
-mattjgalloway,Matt Galloway,FACEBOOK,"London, UK",matt@galloway.me.uk,False,,64,654,11,2011-04-26T17:56:39Z
-appleton,Andrew Appleton,POOLSIDEAI,"London, UK",,False,,80,653,45,2010-04-11T15:05:10Z
-Mononofu,Julian Schrittwieser,GOOGLE DEEPMIND,"London, UK",,True,"Senior Staff SWE & AI Researcher.
+errordeveloper,Ilya Dmitrichenko,,"London, UK",errordeveloper@gmail.com,false,,319,656,1379,2010-04-24T14:31:14Z
+dimpurr,Dim Chen,ROYAL COLLEGE OF ART,London,dimpurr@live.com,true,Machine Learning / Data Mining / Web Developer / UI & UX Designer / Otaku & Illustrator / BUPT Student / Just have fun.,66,654,229,2013-08-06T10:33:36Z
+mattjgalloway,Matt Galloway,FACEBOOK,"London, UK",matt@galloway.me.uk,false,,64,654,11,2011-04-26T17:56:39Z
+appleton,Andrew Appleton,POOLSIDEAI,"London, UK",,false,,80,653,45,2010-04-11T15:05:10Z
+Mononofu,Julian Schrittwieser,GOOGLE DEEPMIND,"London, UK",,true,"Senior Staff SWE & AI Researcher.
 
 AlphaGo, AlphaZero & MuZero.",84,651,2,2009-06-05T21:53:36Z
-ButchersBoy,James Willock,MULHOLLAND SOFTWARE LTD,London,james.willock@mulhollandsoftware.com,False,"Project owner & contributor to some of the biggest WPF projects, forWindows Development MVP.  On the web front  I enjoy ASP, Node, React etc.  @james_willock
+ButchersBoy,James Willock,MULHOLLAND SOFTWARE LTD,London,james.willock@mulhollandsoftware.com,false,"Project owner & contributor to some of the biggest WPF projects, forWindows Development MVP.  On the web front  I enjoy ASP, Node, React etc.  @james_willock
 m",58,634,9,2011-03-08T17:15:06Z
-omerxx,Omer Hamerman,ZESTY-CO ,London,omerxx@gmail.com,False,,109,634,15,2015-05-04T16:30:29Z
-BenNeighbour,BenTheDev,VORBOSS,London,,True,Software Engineer who wants to learn while building cool things.,111,630,255,2018-12-03T07:57:21Z
-nataliemarleny,Natalie Marleny,,London,,False,💬  Software Engineer,30,630,310,2017-09-09T12:33:41Z
-UKVeteran,"Dr. J. M. Ashfaque, MInstP",,"London, UK",,False,A self-motivated and research oriented scientist with good numerical skills and an initiative to realise personal goals and ambitions. ,404,629,2528,2018-05-12T11:52:42Z
-jjenzz,Jenna Smith,,London,,False,,27,625,0,2010-01-02T15:20:55Z
-mwaterfall,Michael Waterfall,,London,,False,"iOS at @ASOS •
+omerxx,Omer Hamerman,ZESTY-CO ,London,omerxx@gmail.com,false,,109,634,15,2015-05-04T16:30:29Z
+BenNeighbour,BenTheDev,VORBOSS,London,,true,Software Engineer who wants to learn while building cool things.,111,630,255,2018-12-03T07:57:21Z
+nataliemarleny,Natalie Marleny,,London,,false,💬  Software Engineer,30,630,310,2017-09-09T12:33:41Z
+UKVeteran,"Dr. J. M. Ashfaque, MInstP",,"London, UK",,false,A self-motivated and research oriented scientist with good numerical skills and an initiative to realise personal goals and ambitions. ,404,629,2528,2018-05-12T11:52:42Z
+jjenzz,Jenna Smith,,London,,false,,27,625,0,2010-01-02T15:20:55Z
+mwaterfall,Michael Waterfall,,London,,false,"iOS at @ASOS •
 Creator of @MomentoApp",16,624,12,2009-09-28T16:47:18Z
-GoodBoyDigital,Mat Groves,GOODBOY DIGITAL,London UK,mat.groves@play.co,False,"Creative coder, all about #Javascript, #WebGL, #optimisation. creator of #PixiJS. Co-founder of https://www.goodboydigital.com",58,622,1,2012-12-24T00:17:53Z
-ianmiell,Ian Miell,MEIRION CONSULTING,London,ian.miell@gmail.com,True,"Writer: @ianmiell
+GoodBoyDigital,Mat Groves,GOODBOY DIGITAL,London UK,mat.groves@play.co,false,"Creative coder, all about #Javascript, #WebGL, #optimisation. creator of #PixiJS. Co-founder of https://www.goodboydigital.com",58,622,1,2012-12-24T00:17:53Z
+ianmiell,Ian Miell,MEIRION CONSULTING,London,ian.miell@gmail.com,true,"Writer: @ianmiell
 Blogger: https://zwischenzugs.com/
 ",359,621,21,2014-03-19T20:38:38Z
-Him188,Him188,,"London, UK",Him188@mamoe.net,True,"Student at Imperial College London. Compiler & computer architecture enthusiast. Kyoani forever. 
+Him188,Him188,,"London, UK",Him188@mamoe.net,true,"Student at Imperial College London. Compiler & computer architecture enthusiast. Kyoani forever.
 ",47,617,15,2015-04-24T14:50:50Z
-pattle,Chris Pattle,,London,chris.pattle@gmail.com,True,,14,612,3,2012-10-24T09:20:30Z
-jakzal,Jakub Zalas,KAFFEINELABS,"London, UK",,False,Software Engineer,54,609,138,2010-01-26T21:30:17Z
-claudio-toledo,Cláudio Toledo,,London,,True,"Hi there, it's Cláudio! Glad you are checking out my profile. I am a very passionate for people and technology, not necessarily in this order.",76,607,2003,2018-01-17T12:47:30Z
-hughsie,Richard Hughes,RED HAT UK,"London, UK",richard@hughsie.com,False,I have over 20 years of experience developing open source software. I built fwupd and the LVFS.,84,607,3,2009-11-10T17:47:26Z
-gontovnik,Danil Gontovnik,,"London, United Kingdom",danil@gontovnik.com,True,🇬🇧 London,27,606,12,2013-01-31T09:21:24Z
-dscape,Nuno Job,DECIPAD ,"London, United Kingdom",,False,@decipad | groundcontrol.ventures | nunojob.com | shortcuts cut short long runs,211,605,0,2008-04-26T18:56:53Z
-ds300,David Sheldrick,,"London, England",d.j.sheldrick@gmail.com,False,"hot nerd.
+pattle,Chris Pattle,,London,chris.pattle@gmail.com,true,,14,612,3,2012-10-24T09:20:30Z
+jakzal,Jakub Zalas,KAFFEINELABS,"London, UK",,false,Software Engineer,54,609,138,2010-01-26T21:30:17Z
+claudio-toledo,Cláudio Toledo,,London,,true,"Hi there, it's Cláudio! Glad you are checking out my profile. I am a very passionate for people and technology, not necessarily in this order.",76,607,2003,2018-01-17T12:47:30Z
+hughsie,Richard Hughes,RED HAT UK,"London, UK",richard@hughsie.com,false,I have over 20 years of experience developing open source software. I built fwupd and the LVFS.,84,607,3,2009-11-10T17:47:26Z
+gontovnik,Danil Gontovnik,,"London, United Kingdom",danil@gontovnik.com,true,🇬🇧 London,27,606,12,2013-01-31T09:21:24Z
+dscape,Nuno Job,DECIPAD ,"London, United Kingdom",,false,@decipad | groundcontrol.ventures | nunojob.com | shortcuts cut short long runs,211,605,0,2008-04-26T18:56:53Z
+ds300,David Sheldrick,,"London, England",d.j.sheldrick@gmail.com,false,"hot nerd.
 
 dev tools. sync engines. good products.",115,597,115,2011-12-05T18:47:23Z
-junhyukoh,Junhyuk Oh,DEEPMIND,"London, UK",,False,Research Scientist at DeepMind,8,590,2,2014-08-29T13:56:15Z
-kbenoit,Kenneth Benoit,LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE,London,kbenoit@lse.ac.uk,False,"Professor of Computational Social Science; Director, LSE Data Science Institute:
+junhyukoh,Junhyuk Oh,DEEPMIND,"London, UK",,false,Research Scientist at DeepMind,8,590,2,2014-08-29T13:56:15Z
+kbenoit,Kenneth Benoit,LONDON SCHOOL OF ECONOMICS AND POLITICAL SCIENCE,London,kbenoit@lse.ac.uk,false,"Professor of Computational Social Science; Director, LSE Data Science Institute:
 Director of @quanteda Initiative",88,584,13,2012-08-20T09:07:14Z
-caiozullo,Caio Zullo,ESSENTIAL DEVELOPER,"London, United Kingdom",,False,"I love building robust, well-engineered, and beautiful iOS applications and coaching developers to achieve their best potential at essentialdeveloper.com",9,581,1,2012-04-17T16:11:39Z
-hereismari,Marianne Monteiro,DEEPMIND,"London, UK",mariannelinharesm@gmail.com,True,"ML, music and education (in no particular order)",81,578,159,2014-07-14T10:53:31Z
-tomwilkie,Tom Wilkie,GRAFANA ,London,,False,"@grafana CTO, @prometheus maintainer & @cortexproject co-author. Previously @kausalco, @weaveworks, @google, @acunu",119,578,9,2010-10-18T14:02:57Z
-bonzanini,Marco Bonzanini,,"London, UK",,False,"Data Scientist: Information Retrieval, NLP, Text Analytics, Machine Learning. Co-org PyData London. Author of ""Mastering Social Media Mining with Python""",22,576,4,2010-08-04T14:24:37Z
-fiorix,Alexandre Fiori,META,"London, UK",fiorix@gmail.com,True,,55,574,63,2009-09-22T01:02:43Z
-bitbrain,miguel,NEOL,"London, United Kingdom",miguel-gonzalez@gmx.de,False,Techlead and Youtuber working on an untitled RPG built in Godot Engine.,141,571,138,2011-06-01T02:14:31Z
-tobiemh,Tobie Morgan Hitchcock,SURREALDB ,"London, UK",tobie@surrealdb.com,False,"Fullstack software engineer, and the creator of @surrealdb, the ultimate cloud database",8,569,9,2012-03-29T19:38:14Z
-moyheen,Moyinoluwa Adeyemi,,London,,False,,36,568,54,2014-07-09T05:31:25Z
-whoiskatrin,whoiskatrin,NEXT47,"London, UK",,True,"@next47, ex-Apple, eBay",18,566,6,2014-06-29T10:52:34Z
-mihajlija,Milica Mihajlija,GOOGLE,"London, UK",,False,online since 2005,32,566,10,2016-02-08T17:35:53Z
-malmstein,David González,DUCKDUCKGO,London,malmstein@gmail.com,True,Mobile @duckduckgo,90,565,2,2010-12-21T07:58:15Z
-CJ42,Jean Cvllr,,London,,False,"Smart Contract & Blockchain Engineer at @lukso-network 
+caiozullo,Caio Zullo,ESSENTIAL DEVELOPER,"London, United Kingdom",,false,"I love building robust, well-engineered, and beautiful iOS applications and coaching developers to achieve their best potential at essentialdeveloper.com",9,581,1,2012-04-17T16:11:39Z
+hereismari,Marianne Monteiro,DEEPMIND,"London, UK",mariannelinharesm@gmail.com,true,"ML, music and education (in no particular order)",81,578,159,2014-07-14T10:53:31Z
+tomwilkie,Tom Wilkie,GRAFANA ,London,,false,"@grafana CTO, @prometheus maintainer & @cortexproject co-author. Previously @kausalco, @weaveworks, @google, @acunu",119,578,9,2010-10-18T14:02:57Z
+bonzanini,Marco Bonzanini,,"London, UK",,false,"Data Scientist: Information Retrieval, NLP, Text Analytics, Machine Learning. Co-org PyData London. Author of ""Mastering Social Media Mining with Python""",22,576,4,2010-08-04T14:24:37Z
+fiorix,Alexandre Fiori,META,"London, UK",fiorix@gmail.com,true,,55,574,63,2009-09-22T01:02:43Z
+bitbrain,miguel,NEOL,"London, United Kingdom",miguel-gonzalez@gmx.de,false,Techlead and Youtuber working on an untitled RPG built in Godot Engine.,141,571,138,2011-06-01T02:14:31Z
+tobiemh,Tobie Morgan Hitchcock,SURREALDB ,"London, UK",tobie@surrealdb.com,false,"Fullstack software engineer, and the creator of @surrealdb, the ultimate cloud database",8,569,9,2012-03-29T19:38:14Z
+moyheen,Moyinoluwa Adeyemi,,London,,false,,36,568,54,2014-07-09T05:31:25Z
+whoiskatrin,whoiskatrin,NEXT47,"London, UK",,true,"@next47, ex-Apple, eBay",18,566,6,2014-06-29T10:52:34Z
+mihajlija,Milica Mihajlija,GOOGLE,"London, UK",,false,online since 2005,32,566,10,2016-02-08T17:35:53Z
+malmstein,David González,DUCKDUCKGO,London,malmstein@gmail.com,true,Mobile @duckduckgo,90,565,2,2010-12-21T07:58:15Z
+CJ42,Jean Cvllr,,London,,false,"Smart Contract & Blockchain Engineer at @lukso-network
 
 Author of ""All About Solidity"" articles series ➡️ https://tinyurl.com/yzacfxjc",84,565,129,2017-08-18T22:50:37Z
-spurin,James Spurin,DIVEINTO.COM,London,,False,"CNCF Ambassador | Docker Captain | Teaches DevOps, Containers, Cloud Native & Kubernetes at DiveInto.com",93,565,21,2011-06-14T21:45:41Z
-snowkylin,Xihan Li,UNIVERSITY COLLEGE LONDON,London,xihanli316@gmail.com,False,"Ph.D. student in department of computer science, University College London, working on machine learning and optimization.",28,559,69,2014-11-10T12:19:57Z
-pedrib,Pedro Ribeiro,AGILE INFORMATION SECURITY,"London, United Kingdom",,False,1337,21,557,0,2013-08-26T11:24:57Z
-orf,Tom Forbes,GITGUARDIAN,London,,True,Django person living and working in London.,152,555,14,2011-09-05T11:22:08Z
-msusur,Mert Susur,CHAINALYSIS,London,,False,,128,555,123,2011-05-05T10:49:10Z
-casperdcl,Casper da Costa-Luis,,"London, UK",casper.dcl@physics.org,True,"Open Source Software Consultant & Technical Product Manager; Computational Physicist; member of IEEE, IOP, & @python Software Foundation",143,554,1,2015-01-30T23:22:57Z
-fb55,Felix Boehm,,"London, UK",,False,"Climbing student, rock programmer.",50,553,46,2010-01-24T11:08:33Z
-moabukar,Mohamed Abukar,,"London, UK",,False,"Platform Engineer, AWS Community Builder & Red Hat Accelerator",243,550,31,2020-12-30T19:51:15Z
-martincostello,Martin Costello,JUSTEATTAKEAWAY,"London, UK",martin@martincostello.com,False,".NET developer, tester and Microsoft MVP based near London working for Just Eat Takeaway.com",142,550,20,2012-02-15T09:43:20Z
-amishshah,Amish Shah,DISCORDJS @UNICSMCR,"London, United Kingdom",,True,,55,546,79,2014-12-28T14:36:52Z
-PaulSonOfLars,Paul Larsen,QARIK-GROUP,"London, UK",pnvlarsen@gmail.com,False,"French/Danish Software Engineer.
-@ImperialCollegeLondon graduate. 
+spurin,James Spurin,DIVEINTO.COM,London,,false,"CNCF Ambassador | Docker Captain | Teaches DevOps, Containers, Cloud Native & Kubernetes at DiveInto.com",93,565,21,2011-06-14T21:45:41Z
+snowkylin,Xihan Li,UNIVERSITY COLLEGE LONDON,London,xihanli316@gmail.com,false,"Ph.D. student in department of computer science, University College London, working on machine learning and optimization.",28,559,69,2014-11-10T12:19:57Z
+pedrib,Pedro Ribeiro,AGILE INFORMATION SECURITY,"London, United Kingdom",,false,1337,21,557,0,2013-08-26T11:24:57Z
+orf,Tom Forbes,GITGUARDIAN,London,,true,Django person living and working in London.,152,555,14,2011-09-05T11:22:08Z
+msusur,Mert Susur,CHAINALYSIS,London,,false,,128,555,123,2011-05-05T10:49:10Z
+casperdcl,Casper da Costa-Luis,,"London, UK",casper.dcl@physics.org,true,"Open Source Software Consultant & Technical Product Manager; Computational Physicist; member of IEEE, IOP, & @python Software Foundation",143,554,1,2015-01-30T23:22:57Z
+fb55,Felix Boehm,,"London, UK",,false,"Climbing student, rock programmer.",50,553,46,2010-01-24T11:08:33Z
+moabukar,Mohamed Abukar,,"London, UK",,false,"Platform Engineer, AWS Community Builder & Red Hat Accelerator",243,550,31,2020-12-30T19:51:15Z
+martincostello,Martin Costello,JUSTEATTAKEAWAY,"London, UK",martin@martincostello.com,false,".NET developer, tester and Microsoft MVP based near London working for Just Eat Takeaway.com",142,550,20,2012-02-15T09:43:20Z
+amishshah,Amish Shah,DISCORDJS @UNICSMCR,"London, United Kingdom",,true,,55,546,79,2014-12-28T14:36:52Z
+PaulSonOfLars,Paul Larsen,QARIK-GROUP,"London, UK",pnvlarsen@gmail.com,false,"French/Danish Software Engineer.
+@ImperialCollegeLondon graduate.
 
 Platform engineer at @Qarik-Group
 Previously @unlikelyai, @improbable, @shazam",47,541,10,2016-02-20T11:10:00Z
-djl11,Daniel Lenton,UNIFYAI ,London,,False,Founder at @unifyai,24,536,30,2016-10-10T15:49:30Z
-javache,Pieter De Baets,FACEBOOK,"London, UK",,False,,29,534,46,2008-04-07T20:41:02Z
-thatfiredev,Rosário P. Fernandes,FIREBASE (@GOOGLE),"London, UK",,False,"DevRel Engineer at Google, working on Firebase",162,534,250,2016-01-18T21:53:01Z
-sergdort,,,"London, United Kingdom",,True,iOS Dev,49,534,50,2013-06-05T15:43:52Z
-mneedham,Mark Needham,CLICKHOUSE,"London, United Kingdom",m.h.needham@gmail.com,False,Product Marketing Engineer @ClickHouse ,346,532,10,2008-06-10T13:55:21Z
-isaachinman,Isaac Hinman,,"London, United Kingdom",,False,Co-founder of @marcoappio and @Sway-Money,46,531,0,2015-01-17T17:59:06Z
-QuiiBz,Tom Lienard,VERCEL,London,tom.lienrd@gmail.com,True,"Developer, enjoying Cloud and Open Source. Compute @vercel. Founder of @lagonapp",84,530,21,2018-09-14T10:41:49Z
-DLu,David V. Lu!!,METROROBOTS,"London, Ontario",davidvlu@gmail.com,False,,199,529,13,2011-08-31T05:04:24Z
-RuiAAPeres,Rui Peres,,"London, UK",,True,"Experienced Manager and Software Engineer 🛠 | Ultra Trail Runner 🏃‍♂️🏔 ""Technology as a means to an end 🚀"" ",145,528,71,2011-07-31T01:25:04Z
-azimin,Alexander Zimin,,"London, United Kingdom",azimin@me.com,False,"Software Engineer, Product Manager",85,527,47,2012-10-31T17:39:45Z
-tomstuart,Tom Stuart,,London,hi@tomstu.art,False,,92,523,4,2008-03-17T09:15:49Z
-ludwigschubert,Ludwig Schubert,,London,,False,"Formerly @openai Clarity 🔬, @brain-research. Supporting clarity in machine learning with @distillpub. ",103,522,14,2011-11-02T17:46:35Z
-andresionek91,Andre Sionek,VOLTERAS ,"London, UK",andresionek91@gmail.com,False,"Staff Software Engineer at @volteras. 
+djl11,Daniel Lenton,UNIFYAI ,London,,false,Founder at @unifyai,24,536,30,2016-10-10T15:49:30Z
+javache,Pieter De Baets,FACEBOOK,"London, UK",,false,,29,534,46,2008-04-07T20:41:02Z
+thatfiredev,Rosário P. Fernandes,FIREBASE (@GOOGLE),"London, UK",,false,"DevRel Engineer at Google, working on Firebase",162,534,250,2016-01-18T21:53:01Z
+sergdort,,,"London, United Kingdom",,true,iOS Dev,49,534,50,2013-06-05T15:43:52Z
+mneedham,Mark Needham,CLICKHOUSE,"London, United Kingdom",m.h.needham@gmail.com,false,Product Marketing Engineer @ClickHouse ,346,532,10,2008-06-10T13:55:21Z
+isaachinman,Isaac Hinman,,"London, United Kingdom",,false,Co-founder of @marcoappio and @Sway-Money,46,531,0,2015-01-17T17:59:06Z
+QuiiBz,Tom Lienard,VERCEL,London,tom.lienrd@gmail.com,true,"Developer, enjoying Cloud and Open Source. Compute @vercel. Founder of @lagonapp",84,530,21,2018-09-14T10:41:49Z
+DLu,David V. Lu!!,METROROBOTS,"London, Ontario",davidvlu@gmail.com,false,,199,529,13,2011-08-31T05:04:24Z
+RuiAAPeres,Rui Peres,,"London, UK",,true,"Experienced Manager and Software Engineer 🛠 | Ultra Trail Runner 🏃‍♂️🏔 ""Technology as a means to an end 🚀"" ",145,528,71,2011-07-31T01:25:04Z
+azimin,Alexander Zimin,,"London, United Kingdom",azimin@me.com,false,"Software Engineer, Product Manager",85,527,47,2012-10-31T17:39:45Z
+tomstuart,Tom Stuart,,London,hi@tomstu.art,false,,92,523,4,2008-03-17T09:15:49Z
+ludwigschubert,Ludwig Schubert,,London,,false,"Formerly @openai Clarity 🔬, @brain-research. Supporting clarity in machine learning with @distillpub. ",103,522,14,2011-11-02T17:46:35Z
+andresionek91,Andre Sionek,VOLTERAS ,"London, UK",andresionek91@gmail.com,false,"Staff Software Engineer at @volteras.
 Data platform engineer: AWS CDK, Python, GraphQL",41,522,74,2013-11-11T19:38:50Z
-eth0izzle,Paul,,London,paul@darkport.co.uk,False,"I make stuff, break stuff, and protect stuff from getting hacked.
+eth0izzle,Paul,,London,paul@darkport.co.uk,false,"I make stuff, break stuff, and protect stuff from getting hacked.
 
 @darkp0rt",12,522,11,2009-06-20T14:01:05Z
-JujuAdams,Juju Adams,,"London, UK",,False,I've worked on a lot of GameMaker games,155,522,3,2013-03-26T02:42:09Z
-st0012,Stan Lo,SHOPIFY ,London,stan001212@gmail.com,True,Ruby Tooling Developer.,74,521,186,2013-07-24T08:13:07Z
-akanimax,Animesh Karnewar,UCL,London,,True,"PhD @smartgeometry-ucl|Marie Curie Fellow for PRIME-ITN|Research interests: VFX, Movies, Video Games, Generative Modelling, Computer Graphics, PBR, DL, AI.",83,519,32,2016-01-07T09:37:25Z
-RichardKnop,Richard Knop,"CURRENTLY @ARABESQUE-SRAY, BEFORE @NEWSUK @GRABSG",London,,True,Writing software for a living since 2011.,192,517,69,2012-09-11T16:39:04Z
-walaura,Laura buns,FACEBOOK,"London, GB",hi@laura.monster,False,javascript string bunny,98,514,88,2015-03-18T13:19:54Z
-CodeMaster7000,CodeMaster7000,TECHDREAMS-INNOVATIONS @NETFRUIT-TECHNOLOGIES @ONBOARD-DEVS,"London, United Kingdom",CodeMaster7K@gmail.com,False,"CEO, Chairman, and Founder of @TechDreams-Innovations, CFO of @NetFruit-Technologies, Member of @chesslablab, and a Developer Program Member.",381,514,640,2021-12-08T18:01:10Z
-vorg,Marcin Ignac,HTTP://VARIABLE.IO,London,marcin.ignac@gmail.com,False,,112,513,2,2009-12-22T15:33:51Z
-mwouts,Marc Wouts,,London,marc.wouts@gmail.com,False,"PhD in Probability Theory, Itô prize 2009.
+JujuAdams,Juju Adams,,"London, UK",,false,I've worked on a lot of GameMaker games,155,522,3,2013-03-26T02:42:09Z
+st0012,Stan Lo,SHOPIFY ,London,stan001212@gmail.com,true,Ruby Tooling Developer.,74,521,186,2013-07-24T08:13:07Z
+akanimax,Animesh Karnewar,UCL,London,,true,"PhD @smartgeometry-ucl|Marie Curie Fellow for PRIME-ITN|Research interests: VFX, Movies, Video Games, Generative Modelling, Computer Graphics, PBR, DL, AI.",83,519,32,2016-01-07T09:37:25Z
+RichardKnop,Richard Knop,"CURRENTLY @ARABESQUE-SRAY, BEFORE @NEWSUK @GRABSG",London,,true,Writing software for a living since 2011.,192,517,69,2012-09-11T16:39:04Z
+walaura,Laura buns,FACEBOOK,"London, GB",hi@laura.monster,false,javascript string bunny,98,514,88,2015-03-18T13:19:54Z
+CodeMaster7000,CodeMaster7000,TECHDREAMS-INNOVATIONS @NETFRUIT-TECHNOLOGIES @ONBOARD-DEVS,"London, United Kingdom",CodeMaster7K@gmail.com,false,"CEO, Chairman, and Founder of @TechDreams-Innovations, CFO of @NetFruit-Technologies, Member of @chesslablab, and a Developer Program Member.",381,514,640,2021-12-08T18:01:10Z
+vorg,Marcin Ignac,HTTP://VARIABLE.IO,London,marcin.ignac@gmail.com,false,,112,513,2,2009-12-22T15:33:51Z
+mwouts,Marc Wouts,,London,marc.wouts@gmail.com,false,"PhD in Probability Theory, Itô prize 2009.
 I also love programming (C++, Python, R etc)",67,513,38,2017-07-05T08:49:30Z
-AlexsJones,Alex Jones,AWS,London,alex@k8sgpt.ai,False,Principal Engineer @aws,252,512,60,2011-12-02T11:40:05Z
-Rigellute,Alexander Keliris,KELIRIS CONSULTING,London,rigellute@gmail.com,False,"Software consultant. Author of spotify-tui. Lover of Rust 🚀, Golang, Typescript, React (+ Native), and cloud infrastructure. Musician and lover of learning.",91,510,6,2015-04-28T08:47:01Z
-benyaminahmed,Benyamin Ahmed,,"London, UK",,False,,10,510,0,2018-02-11T11:42:12Z
-ryancdotorg,Ryan Castellucci,,"London, UK",github-1b66+210325@ryanc.org,True,"Hacker. Bot slayer. Ex-sysadmin. Bureaucramancer. Purveyor of technically sophisticated shitposts.
+AlexsJones,Alex Jones,AWS,London,alex@k8sgpt.ai,false,Principal Engineer @aws,252,512,60,2011-12-02T11:40:05Z
+Rigellute,Alexander Keliris,KELIRIS CONSULTING,London,rigellute@gmail.com,false,"Software consultant. Author of spotify-tui. Lover of Rust 🚀, Golang, Typescript, React (+ Native), and cloud infrastructure. Musician and lover of learning.",91,510,6,2015-04-28T08:47:01Z
+benyaminahmed,Benyamin Ahmed,,"London, UK",,false,,10,510,0,2018-02-11T11:42:12Z
+ryancdotorg,Ryan Castellucci,,"London, UK",github-1b66+210325@ryanc.org,true,"Hacker. Bot slayer. Ex-sysadmin. Bureaucramancer. Purveyor of technically sophisticated shitposts.
 
 Forks are not endorsements.",133,508,10,2011-03-08T00:48:52Z
-Neha,Neha Sharma,AMAZON,London,nsharma215@gmail.com,False,</>,156,506,26,2009-03-09T16:58:14Z
+Neha,Neha Sharma,AMAZON,London,nsharma215@gmail.com,false,</>,156,506,26,2009-03-09T16:58:14Z
