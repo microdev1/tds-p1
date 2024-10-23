@@ -1,4 +1,4 @@
-login,full_name,created_at,stargzaers_count,watchers_count,language,has_projects,has_wiki,license_name
+login,full_name,created_at,stargazers_count,watchers_count,language,has_projects,has_wiki,license_name
 tj,tj/git-extras,2010-08-04T16:32:07Z,17309,210,Shell,true,true,mit
 tj,tj/n,2011-01-05T14:53:19Z,18849,203,Shell,true,true,mit
 tj,tj/commander.js,2011-08-14T21:33:58Z,26709,232,JavaScript,true,true,mit

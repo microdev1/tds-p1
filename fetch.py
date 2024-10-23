@@ -43,7 +43,7 @@ repos.writerow(
         "login",
         "full_name",
         "created_at",
-        "stargzaers_count",
+        "stargazers_count",
         "watchers_count",
         "language",
         "has_projects",
