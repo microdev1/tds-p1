@@ -85,7 +85,7 @@ def write_repo(user, repo):
             repo["createdAt"],
             repo["stargazerCount"],
             repo["watchers"]["totalCount"],
-            (repo["primaryLanguage"]["name"] if repo["primaryLanguage"] else ""),
+            repo["primaryLanguage"]["name"] if repo["primaryLanguage"] else "",
             repo["hasProjectsEnabled"],
             repo["hasWikiEnabled"],
             repo["licenseInfo"]["name"] if repo["licenseInfo"] else "",
