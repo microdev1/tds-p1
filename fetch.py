@@ -11,14 +11,31 @@ headers = {
     "Authorization": f"Bearer {os.getenv('GITHUB_TOKEN')}",
     "Content-Type": "application/json",
 }
-after = ""
+after = None
 query = {}
 
 for i in ["user", "repo"]:
     with open(f"queries/{i}.graphql") as f:
         query[i] = f.read().strip()
 
-users_csv = open("data/users.csv", "w")
+
+def fetch(query, variables):
+    response = requests.post(
+        url,
+        headers=headers,
+        json={"query": query, "variables": variables},
+    )
+    response.raise_for_status()
+    return response.json()
+
+
+def paginate(entity):
+    page_info = entity["pageInfo"]
+    if page_info["hasNextPage"]:
+        return page_info["endCursor"]
+
+
+users_csv = open("data/users.csv", "w+")
 users = csv.writer(users_csv)
 users.writerow(
     [
@@ -93,47 +110,34 @@ def write_repo(user, repo):
     )
 
 
-def fetch(query, variables):
-    response = requests.post(
-        url,
-        headers=headers,
-        json={"query": query, "variables": variables},
-    )
-    response.raise_for_status()
-    return response.json()
-
-
-def paginate(page_info):
-    if page_info["hasNextPage"]:
-        return page_info["endCursor"]
-
-
 while True:
     data = fetch(query["user"], {"after": after})
     entity = data["data"]["search"]
 
-    for user in entity["nodes"]:
-        # Even though the search query is for users,
-        # it may return other enitites as empty {}. Skip them.
-        if not user:
-            continue
+    # Even though the search query is for users,
+    # api may return other enitites as empty {}. Skip them.
+    filtered = filter(None, entity["nodes"])
 
+    for user in filtered:
         write_user(user)
 
-        count = 0
-
-        while count < 500:
-            data = fetch(query["repo"], {"login": user["login"], "after": after})
-            entity = data["data"]["user"]["repositories"]
-
-            limited = entity["nodes"][: 500 - count]
-            count += len(limited)
-
-            for repo in limited:
-                write_repo(user, repo)
-
-            if not (after := paginate(entity["pageInfo"])):
-                break
-
-    if not (after := paginate(entity["pageInfo"])):
+    if not (after := paginate(entity)):
         break
+
+users_csv.seek(0)
+
+for user in csv.DictReader(users_csv):
+    count = 0
+
+    while count < 500:
+        data = fetch(query["repo"], {"login": user["login"], "after": after})
+        entity = data["data"]["user"]["repositories"]
+
+        limited = entity["nodes"][: 500 - count]
+        count += len(limited)
+
+        for repo in limited:
+            write_repo(user, repo)
+
+        if not (after := paginate(entity)):
+            break
