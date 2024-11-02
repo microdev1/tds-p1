@@ -10,8 +10,9 @@ Retrieval and analysis of GitHub users and their repositories.
 4. `fetch.json`: A JSON file containing fetch statistics.
 5. `queries`: This directory contains GraphQL queries used to fetch data from GitHub API.
 6. `analysis.ipynb`: A Jupyter notebook containing the analysis of the data.
-7. `.gitignore`: A file to exclude certain files from being tracked by Git.
-8. `README.md`: This file. A summary of the project and its findings.
+7. `answers.ipynb`: Contains answers to the project assignment questions.
+8. `.gitignore`: A file to exclude certain files from being tracked by Git.
+9. `README.md`: This file. A summary of the project and its findings.
 
 ## How the Data was Sourced and Processed
 
