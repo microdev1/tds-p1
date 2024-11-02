@@ -1,4 +1,11 @@
 {
-    "totalCount": 323,
-    "misClassified": 22
+    "date": "22-10-2024",
+    "users": {
+        "totalCount": 323,
+        "misclassified": 22
+    },
+    "repositories": {
+        "totalCount": 37922,
+        "misclassified": 0
+    }
 }
